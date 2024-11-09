@@ -1,4 +1,4 @@
-# 💫 About Me:
+#About Me:
 👨‍💻 Industrial Engineer with experience in product and service quality, passionate about process optimization and continuous improvement. I started my career as a quality inspector in a glass and aluminum plant, then worked in BPO as a sales representative and bilingual customer service agent to improve my English (B2 level).<br><br>🔍 My focus is on identifying and solving problems through data analysis and implementation of innovative solutions, always committed to quality and operational excellence. I value teamwork and strive to build respectful and collaborative relationships, bringing effective communication skills that enable agile problem solving.<br><br>🌐 I am currently training in programming, web development, database management and cybersecurity, and am excited to integrate these skills with my industrial engineering background to drive efficiency and productivity in diverse environments.<br><br>Translated with DeepL.com (free version)
 
 
