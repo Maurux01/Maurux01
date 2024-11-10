@@ -1,4 +1,3 @@
-git clone https://github.com/anuraghazra/github-readme-stats.git
 # About Me 🙌
 
 <p align="center">
