@@ -29,9 +29,7 @@
   <a href="https://stackoverflow.com/users/28065944/mauro-infante" target="_blank">
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
   </a>
-  <a href="https://x.com/@MauFel2" target="_blank">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"/>
-  </a>
+
 </p>
 
 ---
