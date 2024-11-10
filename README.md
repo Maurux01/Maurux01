@@ -1,14 +1,24 @@
+git clone https://github.com/anuraghazra/github-readme-stats.git
 # About Me 🙌
 
 <p align="center">
   ¡Welcome to my profile!
 </p>
 
-👨‍💻 Industrial Engineer with experience in product and service quality, passionate about process optimization and continuous improvement. I started my career as a quality inspector in a glass and aluminum plant, then worked in BPO as a sales representative and bilingual customer service agent to improve my English (B2 level).
+---
 
-🔍 My focus is on identifying and solving problems through data analysis and implementation of innovative solutions, always committed to quality and operational excellence. I value teamwork and strive to build respectful and collaborative relationships, bringing effective communication skills that enable agile problem solving.
+# 📊 Most Used Languages
+<p align="center">
+  <img src="https://YOUR-CUSTOM-URL.vercel.app/api/top-langs/?username=Maurux01&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages"/>
+</p>
 
-🌐 I am currently training in programming, web development, database management, and cybersecurity, and am excited to integrate these skills with my industrial engineering background to drive efficiency and productivity in diverse environments.
+---
+
+# 📊 GitHub Stats:
+<p align="center">
+  <img src="https://YOUR-CUSTOM-URL.vercel.app/api?username=Maurux01&theme=aura&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maurux01&theme=aura&hide_border=false" alt="GitHub Streak Stats"/>
+</p>
 
 ---
 
@@ -45,15 +55,6 @@
 
 ---
 
-# 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maurux01&theme=aura&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maurux01&theme=aura&hide_border=false" alt="GitHub Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maurux01&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-</p>
-
----
-
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Maurux01&theme=holi&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
@@ -79,4 +80,4 @@
   <img src="https://visitcount.itsvg.in/api?id=Maurux01&icon=1&color=8" alt="Profile View Counter"/>
 </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
