@@ -1,61 +1,82 @@
 # About Me 🙌
 
-<div style="text-align:center">
+<p align="center">
   ¡Welcome to my profile!
-</div>
+</p>
 
-<div style="text-align: justify;">
-  👨‍💻 Industrial Engineer with experience in product and service quality, passionate about process optimization and continuous improvement. I started my career as a quality inspector in a glass and aluminum plant, then worked in BPO as a sales representative and bilingual customer service agent to improve my English (B2 level).<br><br>🔍 My focus is on identifying and solving problems through data analysis and implementation of innovative solutions, always committed to quality and operational excellence. I value teamwork and strive to build respectful and collaborative relationships, bringing effective communication skills that enable agile problem solving.<br><br>🌐 I am currently training in programming, web development, database management, and cybersecurity, and am excited to integrate these skills with my industrial engineering background to drive efficiency and productivity in diverse environments.
-</div>
+👨‍💻 Industrial Engineer with experience in product and service quality, passionate about process optimization and continuous improvement. I started my career as a quality inspector in a glass and aluminum plant, then worked in BPO as a sales representative and bilingual customer service agent to improve my English (B2 level).
 
-## 🌐 Socials:
-<div style="text-align:center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/infmauro)  
-  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28065944/mauro-infante)  
-  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@MauFel2)
-</div>
+🔍 My focus is on identifying and solving problems through data analysis and implementation of innovative solutions, always committed to quality and operational excellence. I value teamwork and strive to build respectful and collaborative relationships, bringing effective communication skills that enable agile problem solving.
 
-# 💻 Tech Stack:
-<div style="text-align:center">
-  ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)  
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)  
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)  
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)  
-  ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white)  
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)  
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)  
-  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)  
-  ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat-square&logo=gimp&logoColor=FFFFFF)  
-  ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat-square&logo=inkscape&logoColor=080A13)  
-  ![Krita](https://img.shields.io/badge/Krita-203759?style=flat-square&logo=krita&logoColor=EEF37B)
-</div>
-
-# 📊 GitHub Stats:
-<div style="text-align:center">
-  ![](https://github-readme-stats.vercel.app/api?username=Maurux01&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=Maurux01&theme=aura&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maurux01&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
-
-## 🏆 GitHub Trophies
-<div style="text-align:center">
-  ![](https://github-profile-trophy.vercel.app/?username=Maurux01&theme=holi&no-frame=true&no-bg=false&margin-w=4)
-</div>
-
-### ✍️ Random Dev Quote
-<div style="text-align:center">
-  ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-</div>
-
-### 🔝 Top Contributed Repo
-<div style="text-align:center">
-  ![](https://github-contributor-stats.vercel.app/api?username=Maurux01&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
-</div>
+🌐 I am currently training in programming, web development, database management, and cybersecurity, and am excited to integrate these skills with my industrial engineering background to drive efficiency and productivity in diverse environments.
 
 ---
-<div style="text-align:center">
-  [![](https://visitcount.itsvg.in/api?id=Maurux01&icon=1&color=8)](https://visitcount.itsvg.in)
-</div>
+
+## 🌐 Socials:
+<p align="center">
+  <a href="https://linkedin.com/in/infmauro" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://stackoverflow.com/users/28065944/mauro-infante" target="_blank">
+    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
+  </a>
+  <a href="https://x.com/@MauFel2" target="_blank">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"/>
+  </a>
+</p>
+
+---
+
+# 💻 Tech Stack:
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab"/>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white" alt="Canva"/>
+  <img src="https://img.shields.io/badge/Gimp-657D8B?style=flat-square&logo=gimp&logoColor=FFFFFF" alt="Gimp"/>
+  <img src="https://img.shields.io/badge/Inkscape-e0e0e0?style=flat-square&logo=inkscape&logoColor=080A13" alt="Inkscape"/>
+  <img src="https://img.shields.io/badge/Krita-203759?style=flat-square&logo=krita&logoColor=EEF37B" alt="Krita"/>
+</p>
+
+---
+
+# 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maurux01&theme=aura&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maurux01&theme=aura&hide_border=false" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maurux01&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Maurux01&theme=holi&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+</p>
+
+---
+
+### ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Random Dev Quote"/>
+</p>
+
+---
+
+### 🔝 Top Contributed Repo
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Maurux01&limit=5&theme=blue_navy&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Maurux01&icon=1&color=8" alt="Profile View Counter"/>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
