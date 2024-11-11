@@ -13,29 +13,23 @@
 
 
 
-<p align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</p>
+<table style="border: 1px solid transparent; width: 100%;">
+  <tr>
+    <td style="border: 1px solid transparent; vertical-align: top; width: 75%;">
+      🌱 I’m currently learning **Machine learning, and development**  
+      👨‍💻 All of my projects are available at [https://maurux01.github.io/](https://maurux01.github.io/)  
+      📝 I regularly read articles on [https://daily.dev/es](https://app.daily.dev)  
+      💬 Ask me about **HTML, CSS, Java, JavaScript, and more**  
+      🎓You can see my certificates here: [Coding certificates](https://drive.google.com/drive/folders/1Sq5hnD3T1hJmHeicdiXK0TyH4OPDFrV3) - [Other certificates](https://drive.google.com/drive/folders/1yW6YV73z90q1kUUwXLvQkCM7AZ8X2lTO)
+      📫 How to reach me: **maurofel36@gmail.com**  
+      📄 Know about my experiences [My curriculum](https://drive.google.com/file/d/1dUKl8Rr-nrBQQGTeQ4FCkBkCtt1WxAfg/view)
+    </td>
+    <td style="border: 1px solid transparent; vertical-align: top; width: 25%;">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="GIF">
+    </td>
+  </tr>
+</table>
 
-
-
-
-
-🌱 I’m currently learning **Machine learning, and development**
-
-👨‍💻 All of my projects are available at [https://maurux01.github.io/](https://maurux01.github.io/)  
-
-📝 I regularly read articles on [https://daily.dev/es](https://app.daily.dev)  
-
-💬 Ask me about **HTML, CSS, Java, JavaScript, and more**  
-
-🎓You can see my certificates here: [Coding certificates](https://drive.google.com/drive/folders/1Sq5hnD3T1hJmHeicdiXK0TyH4OPDFrV3) -  [Other certificates](https://drive.google.com/drive/folders/1yW6YV73z90q1kUUwXLvQkCM7AZ8X2lTO)
-
-📫 How to reach me: **maurofel36@gmail.com**
-
-📄 Know about my experiences [My curriculum](https://drive.google.com/file/d/1dUKl8Rr-nrBQQGTeQ4FCkBkCtt1WxAfg/view)
-
-</div>
 
 
 #  Tech Stack 💻:
