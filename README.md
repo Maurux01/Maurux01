@@ -1,3 +1,10 @@
+<div align=rigth">
+
+[![](https://visitcount.itsvg.in/api?id=Maurux01&icon=0&color=3)](https://visitcount.itsvg.in)
+
+</div>
+
+
 <div align="center">
 
 <h1><strong>Hi, I'm Mauro Infante👋</strong></h1>
@@ -106,11 +113,6 @@
 
 </div>
 
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=Maurux01&icon=0&color=3)](https://visitcount.itsvg.in)
-
-</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
