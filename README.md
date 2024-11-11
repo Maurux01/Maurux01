@@ -3,18 +3,15 @@
 <h1><strong>Hi, I'm Mauro Infante👋</strong></h1>
 <h3><em>Industrial Engineer | Focus on Quality Assurance | JR Web Developer</em></h3>
 
+🌱 I’m currently learning **Machine learning, and development**
 
+👨‍💻 All of my projects are available at [https://maurux01.github.io/](https://maurux01.github.io/)  
 
+📝 I regularly read articles on [https://daily.dev/es](https://app.daily.dev)  
 
-🌱 I’m currently learning **Machine learning, and develop**
+💬 Ask me about **HTML, CSS, Java, JavaScript, and more**  
 
-👨‍💻 All of my projects are available at [https://maurux01.github.io/](https://maurux01.github.io/)
-
-📝 I regularly read articles on [https://daily.dev/es](https://app.daily.dev)
-
-💬 Ask me about **HTML, CSS, Java, JavaScript, and more**
-
-📫 How to reach me **maurofel36@gmail.com**
+📫 How to reach me: **maurofel36@gmail.com**
 
 📄 Know about my experiences [My curriculum](https://drive.google.com/file/d/1dUKl8Rr-nrBQQGTeQ4FCkBkCtt1WxAfg/view)
 
