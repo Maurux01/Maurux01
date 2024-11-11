@@ -1,4 +1,4 @@
-<div align=rigth">
+<div align=right">
 
 [![](https://visitcount.itsvg.in/api?id=Maurux01&icon=0&color=3)](https://visitcount.itsvg.in)
 
@@ -27,6 +27,8 @@
 📝 I regularly read articles on [https://daily.dev/es](https://app.daily.dev)  
 
 💬 Ask me about **HTML, CSS, Java, JavaScript, and more**  
+
+🎓You can see my certificates here: [Coding certificates](https://drive.google.com/drive/folders/1Sq5hnD3T1hJmHeicdiXK0TyH4OPDFrV3) -  [Other certificates](https://drive.google.com/drive/folders/1yW6YV73z90q1kUUwXLvQkCM7AZ8X2lTO)
 
 📫 How to reach me: **maurofel36@gmail.com**
 
