@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://maurux01.github.io/](https://maurux01.github.io/)
 
-- 📝 I regularly read articles on [https://daily.dev/es](https://daily.dev/es)
+- 📝 I regularly read articles on [https://daily.dev/es](https://app.daily.dev)
 
 - 💬 Ask me about **HTML,CSS,Java,JavaScript,and more**
 
