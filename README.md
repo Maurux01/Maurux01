@@ -13,22 +13,25 @@
 
 
 
-<table style="border: 1px solid transparent; width: 100%;">
+<table style="border: 1px solid black; width: 100%; padding: 10px;">
   <tr>
-    <td style="border: 1px solid transparent; vertical-align: top; width: 75%;">
-      🌱 I’m currently learning **Machine learning, and development**  
-      👨‍💻 All of my projects are available at [https://maurux01.github.io/](https://maurux01.github.io/)  
-      📝 I regularly read articles on [https://daily.dev/es](https://app.daily.dev)  
-      💬 Ask me about **HTML, CSS, Java, JavaScript, and more**  
-      🎓You can see my certificates here: [Coding certificates](https://drive.google.com/drive/folders/1Sq5hnD3T1hJmHeicdiXK0TyH4OPDFrV3) - [Other certificates](https://drive.google.com/drive/folders/1yW6YV73z90q1kUUwXLvQkCM7AZ8X2lTO)
-      📫 How to reach me: **maurofel36@gmail.com**  
-      📄 Know about my experiences [My curriculum](https://drive.google.com/file/d/1dUKl8Rr-nrBQQGTeQ4FCkBkCtt1WxAfg/view)
+    <td style="border: 1px solid black; vertical-align: top; width: 75%; padding-left: 20px;">
+      <ul style="list-style-type: disc; padding-left: 20px;">
+        <li>🌱 I’m currently learning <strong>Machine learning, and development</strong></li>
+        <li>👨‍💻 All of my projects are available at <a href="https://maurux01.github.io/">https://maurux01.github.io/</a></li>
+        <li>📝 I regularly read articles on <a href="https://daily.dev/es">https://app.daily.dev</a></li>
+        <li>💬 Ask me about <strong>HTML, CSS, Java, JavaScript, and more</strong></li>
+        <li>🎓 You can see my certificates here: <a href="https://drive.google.com/drive/folders/1Sq5hnD3T1hJmHeicdiXK0TyH4OPDFrV3">Coding certificates</a> - <a href="https://drive.google.com/drive/folders/1yW6YV73z90q1kUUwXLvQkCM7AZ8X2lTO">Other certificates</a></li>
+        <li>📫 How to reach me: <strong>maurofel36@gmail.com</strong></li>
+        <li>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1dUKl8Rr-nrBQQGTeQ4FCkBkCtt1WxAfg/view">My curriculum</a></li>
+      </ul>
     </td>
-    <td style="border: 1px solid transparent; vertical-align: top; width: 25%;">
+    <td style="border: 1px solid black; vertical-align: top; width: 25%; padding-left: 20px;">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="GIF">
     </td>
   </tr>
 </table>
+
 
 
 
