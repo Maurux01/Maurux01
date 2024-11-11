@@ -8,7 +8,7 @@
 
 <div align="center">
 <h1><strong>Hi, I'm Mauro Infante👋</strong></h1>
-<h2><em>Industrial Engineer | Focus on Quality Assurance | JR Web Developer</em></h2>
+<h2><em>Industrial Engineer | JR Web Developer</em></h2>
 <p align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="snake" />
 </p>
