@@ -4,8 +4,6 @@
 
 </div>
 
-
-
 <div align="center">
 <h1><strong>Hi, I'm Mauro Infante👋</strong></h1>
 <h2><em>Industrial Engineer | JR Web Developer</em></h2>
