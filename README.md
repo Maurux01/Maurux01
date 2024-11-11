@@ -139,7 +139,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/infmauro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/infmauro" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/28065944/mauro-infante" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/28065944/mauro-infante" height="30" width="40" /></a>
-<a href="https://discord.gg/817542315371003904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="817542315371003904" height="30" width="40" /></a>
 </p>
 
 
