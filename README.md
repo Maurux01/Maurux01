@@ -53,27 +53,16 @@
 
 # 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maurux01&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" />
-</p>
-
-<!-- Sección de lenguajes más usados -->
-<div class="languages">
-    <h3>Most Used Languages</h3>
-    <div class="language-stats" id="language-stats">
-        <!-- Los datos se cargarán dinámicamente aquí -->
-    </div>
+<!-- Sección de estadísticas de GitHub -->
+<div class="github-stats">
+    <h2>My GitHub Stats 🏆</h2>
+    <!-- Estadísticas de lenguajes -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurux01&layout=compact&theme=dark&hide_border=true" 
+         alt="Most Used Languages" />
+    <!-- Estadísticas generales -->
+    <img src="https://github-readme-stats.vercel.app/api?username=maurux01&show_icons=true&theme=dark&hide_border=true" 
+         alt="GitHub Stats" />
 </div>
-
-<!-- Asegúrate de que este script esté antes del cierre del body -->
-<script>
-async function fetchGitHubLanguages() {
-    try {
-        const username = 'Maurux01';
-        const response = await fetch(`https://api.github.com/users/${username}/repos`);
-        const repos = await response.json();
-
-<div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=Maurux01&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
