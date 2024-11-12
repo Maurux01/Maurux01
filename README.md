@@ -51,24 +51,17 @@
 </div>
 
 
-# 📊 GitHub Stats:
 
-<!-- Sección de estadísticas de GitHub -->
-<div class="github-stats">
-    <h2>My GitHub Stats 🏆</h2>
-    <!-- Estadísticas de lenguajes -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurux01&layout=compact&theme=dark&hide_border=true" 
-         alt="Most Used Languages" />
-    <!-- Estadísticas generales -->
-    <img src="https://github-readme-stats.vercel.app/api?username=maurux01&show_icons=true&theme=dark&hide_border=true" 
-         alt="GitHub Stats" />
-</div>
+# My GitHub Stats 🏆
 
-![](https://github-readme-stats.vercel.app/api?username=Maurux01&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<!-- Lenguajes más usados -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maurux01&layout=compact&theme=dark&hide_border=true)](https://github.com/maurux01)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Maurux01&theme=gotham&hide_border=false)<br/>
+<!-- Estadísticas generales -->
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maurux01&theme=github_dark)](https://github.com/maurux01)
 
-</div>
+<!-- Estadísticas de contribuciones -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maurux01&theme=dark&hide_border=true)](https://github.com/maurux01)
 
 ## Languages 🚀
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
