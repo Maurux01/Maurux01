@@ -57,7 +57,21 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maurux01&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" />
 </p>
 
+<!-- Sección de lenguajes más usados -->
+<div class="languages">
+    <h3>Most Used Languages</h3>
+    <div class="language-stats" id="language-stats">
+        <!-- Los datos se cargarán dinámicamente aquí -->
+    </div>
+</div>
 
+<!-- Asegúrate de que este script esté antes del cierre del body -->
+<script>
+async function fetchGitHubLanguages() {
+    try {
+        const username = 'Maurux01';
+        const response = await fetch(`https://api.github.com/users/${username}/repos`);
+        const repos = await response.json();
 
 <div align="center">
 
