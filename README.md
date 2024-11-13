@@ -55,7 +55,7 @@
 [![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maurux01&theme=github_dark)](https://github.com/maurux01)
 
 <!-- Estadísticas de contribuciones -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=maurux01&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=maurux01&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ## Languages 🚀
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
