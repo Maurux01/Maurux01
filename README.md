@@ -92,12 +92,12 @@
 
 ### 🔝 Top Contributed Repo
 
+<!-- Tema Tokyo Night -->
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=Maurux01&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Maurux01&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 </div>
-
 
 ### ✍️ Random Dev Quote
 <div align="center">
