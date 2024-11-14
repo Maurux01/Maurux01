@@ -1,0 +1,9 @@
+{
+   "CodeGPT.apiKey": "CodeGPT Plus Beta",
+   "window.autoDetectColorScheme": true,
+   "workbench.colorTheme": "GitHub Dark Default",
+   "workbench.preferredDarkColorTheme": "Material Theme Ocean",
+   "editor.cursorBlinking": "expand",
+   "editor.cursorSmoothCaretAnimation": "on",
+   "editor.bracketPairColorization.independentColorPoolPerBracketType": true
+}
