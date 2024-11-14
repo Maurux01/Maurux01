@@ -8,14 +8,17 @@
 
 
 ### Industrial Engineer | Jr sofware ingenieer
+<div align="center">
+
+  🌱 Learning **Web development, Python, and Java**  
+  🫂 I seek to collaborate **with other creators**  
+  👨‍💻 All my projects are available on [my website](https://Maurux01.github.io)  
+  📫 Contact me at [maurofel36@gmail.com](mailto:maurofel36@gmail.com)  
+  📄 Check out my experience at [Download CV](https://drive.google.com/file/d/1dUKl8Rr-nrBQQGTeQ4FCkBkCtt1WxAfg/view?usp=drive_link)
+
+</div>
 
 
-
-🌱 Learning **Web development, pyhton and java**  
-🫂 I seek to collaborate **with other creators**  
-👨‍💻 All my projects are available on [my website](https://Maurux01.github.io)  
-📫 Contact me at [maurofel36@gmail.com](mailto:maurofel36@gmail.com)  
-📄 Check out my experience at [Download CV](https://drive.google.com/file/d/1dUKl8Rr-nrBQQGTeQ4FCkBkCtt1WxAfg/view?usp=drive_link)
 
 ## Technologies 🧑‍💻
 <div align="left">
