@@ -1,17 +1,17 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMaurux01&count_bg=%2323EAB3&title_bg=%234D3A36&icon=github.svg&icon_color=%23C402A1&title=Views+&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-# Hi there, 👋 I´m Mauro Infante
-
+<div align="center">
+  <h1>Hi there, 👋 I’m Mauro Infante</h1>
+  <h3>Industrial Engineer | Jr Software Engineer</h3>
+</div>
 
 <p align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake Animation">
 </p>
 
-
-### Industrial Engineer | Jr sofware ingenieer
 <div align="center">
-
+  <h3>About me</h3>
   🌱 Learning **Web development, Python, and Java**  
   🫂 I seek to collaborate **with other creators**  
   👨‍💻 All my projects are available on [my website](https://Maurux01.github.io)  
@@ -20,9 +20,10 @@
 
 </div>
 
+<div align="center">
+  <h2>Technologies 🧑‍💻</h2>
+</div>
 
-
-## Technologies 🧑‍💻
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
@@ -63,8 +64,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
 </div>
 
-
-## My Stats 🏆
+<div align="center">
+  <h2>My Stats 🏆</h2>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Maurux01&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
@@ -74,8 +76,14 @@
 
 
 
-## Connect with me 🤝🏻
+<div align="center">
+  <h2>Connect with me 🤝🏻</h2>
+</div>
+
 
 <div align="center">
-  <a href="https://linkedin.com/in/infmauro" target="_blank">LinkedIn</a> 
+  <a href="https://linkedin.com/in/infmauro" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </div>
+
