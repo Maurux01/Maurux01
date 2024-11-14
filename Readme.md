@@ -12,11 +12,11 @@
 
 <div align="center">
   <h3>About me</h3>
-    <li>- 🌱 Learning **Web development, Python, and Java**</li>
-    <li>- 🫂 I seek to collaborate **with other creators**</li>
-    <li>- 👨‍💻 All my projects are available on [my website](https://Maurux01.github.io)</li>
-    <li>- 📫 Contact me at [maurofel36@gmail.com](mailto:maurofel36@gmail.com)</li>
-    <li>- 📄 Check out my experience at [Download CV](https://drive.google.com/file/d/1dUKl8Rr-nrBQQGTeQ4FCkBkCtt1WxAfg/view?usp=drive_link)</li>
+    <li>🌱 Learning **Web development, Python, and Java**</li>
+    <li>🫂 I seek to collaborate **with other creators**</li>
+    <li>👨‍💻 All my projects are available on [my website](https://Maurux01.github.io)</li>
+    <li>📫 Contact me at [maurofel36@gmail.com](mailto:maurofel36@gmail.com)</li>
+    <li>📄 Check out my experience at [Download CV](https://drive.google.com/file/d/1dUKl8Rr-nrBQQGTeQ4FCkBkCtt1WxAfg/view?usp=drive_link)</li>
 </div>
 
 
