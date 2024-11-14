@@ -65,14 +65,12 @@
 ## My Stats 🏆
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Maurux01&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Maurux01&show_icons=true&locale=en" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maurux01" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Maurux01&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Maurux01&show_icons=true&locale=en&theme=tokyonight" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maurux01&theme=tokyonight" alt="Streak Stats" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Maurux01&label=Profile%20views&color=ef0515&style=flat" alt="Profile views" />
-</div>
+
 
 ## Connect with me 🤝🏻
 
