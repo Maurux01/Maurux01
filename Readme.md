@@ -12,8 +12,8 @@
 
 <div align="center">
   <h3>About me</h3>
-    <li>🌱 Learning **Web development,Python,and Java** </li>
-    <li>🫂 I seek to collaborate **with other creators** </li>
+   <li>🌱 Learning *Web development, Python, and Java* </li>
+    <li>🫂 I seek to collaborate *with other creators* </li>
     <li>👨‍💻 All my projects are available on https://Maurux01.github.io </li>
     <li>📫 Contact me at maurofel36@gmail.com </li>
 </div>
