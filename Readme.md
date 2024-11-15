@@ -10,6 +10,8 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake Animation">
 </p>
 
+![Mauro Infante](https://github.com/user-attachments/assets/6f9affe7-ffdd-4284-bfe9-d0ee138e4fa1)
+
 <div align="center">
   <h3>About me</h3>
    <li>🌱 Learning *Web development, Python, and Java* </li>
