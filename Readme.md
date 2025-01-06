@@ -123,10 +123,11 @@
 </div>
 
 
-### 🔝 Top Contributed Repo
+
 
 <!-- Tema Tokyo Night -->
 <div align="center">
+ <h1> 🔝 Top Contributed Repo<h1>
 
 ![](https://github-contributor-stats.vercel.app/api?username=Maurux01&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
@@ -134,9 +135,10 @@
 
 
 
-### ✍️ Random Dev Quote
-<div align="center">
 
+<div align="center">
+ <h1> ✍️ Random Dev Quote<h1>
+ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
@@ -147,11 +149,23 @@
 </div>
 
 
+ <a href="https://stackoverflow.com/users/28065944/mauro-infante" target="_blank">
+    <img align="center" src="https://img.icons8.com/fluency/48/stackoverflow.png" alt="Stack Overflow" height="40" width="40" />
+  </a>
 <div align="center">
-  <a href="https://linkedin.com/in/infmauro" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/28065944/mauro-infante" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/28065944/mauro-infante" height="30" width="40" /></a>
+<img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" width="40" height="40">
+  </a>
+  <a href="https://linkedin.com/in/infmauro" target="_blank">  <a href="https://twitter.com/maxinff" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/twitter.png" alt="Twitter" width="40" height="40">
+  </a>  <a href="https://www.reddit.com/user/maxinff/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/reddit.png" alt="Reddit" width="40" height="40">
+  </a>
+  <a href="https://gitlab.com/Maurux01" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/gitlab.png" alt="GitLab" width="40" height="40">
   </a>
 </div>
+
+
+
 
 
