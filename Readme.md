@@ -115,9 +115,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" alt="GIMP" width="50"/>
+  <img src="https://img.icons8.com/?size=256&id=b4Y5rs3iBGqE&format=png" alt="GIMP" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="Godot" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" alt="Inkscape" width="50"/>
+  <img src="https://img.icons8.com/?size=256&id=63150&format=png" alt="Inkscape" width="50"/>
+
+  <img src="https://img.icons8.com/?size=256&id=HwN2KHJZmGGN&format=png" alt="Krita" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Breezeicons-apps-48-kdenlive.svg/800px-Breezeicons-apps-48-kdenlive.svg.png" alt="Kdenlive" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=256&id=L6zSjFS4HZZy&format=png" alt="LMMS" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Darktable_icon.svg/128px-Darktable_icon.svg.png" alt="Darktable" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Synfig_logo.svg/640px-Synfig_logo.svg.png" alt="Synfig Studio" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Scribus_logo.svg/135px-Scribus_logo.svg.png" alt="Scribus" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Pixelorama_Icon.png?20211216231235" alt="Pixelorama" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Audacity.png" alt="Audacity" width="50" height="50"/>
+</p>
+
 </p>
 
 </p>
