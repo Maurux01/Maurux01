@@ -134,7 +134,7 @@
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Maurux01&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-  
+
   <img src="https://github-readme-stats.vercel.app/api?username=maurux01&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical" alt="GitHub Stats" />
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maurux01&theme=tokyonight" alt="Streak Stats" />
@@ -196,23 +196,3 @@
 </table>
 </div>
 
-## Mis herramientas y programas
-
-- <img src="https://img.icons8.com/ios/452/npm.png" alt="npm" width="20"/> npm
-- <img src="https://img.icons8.com/ios/452/docker.png" alt="Docker" width="20"/> Docker
-- <img src="https://img.icons8.com/ios/452/postman.png" alt="Postman" width="20"/> Postman
-- <img src="https://img.icons8.com/ios/452/jenkins.png" alt="Jenkins" width="20"/> Jenkins
-- <img src="https://img.icons8.com/ios/452/discord-logo.png" alt="Discord" width="20"/> Discord
-- <img src="https://img.icons8.com/ios/452/blender.png" alt="Blender" width="20"/> Blender
-- <img src="https://img.icons8.com/ios/452/krita.png" alt="Krita" width="20"/> Krita
-- <img src="https://img.icons8.com/ios/452/gimp.png" alt="GIMP" width="20"/> GIMP
-- <img src="https://img.icons8.com/ios/452/kdenlive.png" alt="Kdenlive" width="20"/> Kdenlive
-- <img src="https://img.icons8.com/ios/452/appflowy.png" alt="AppFlowy" width="20"/> AppFlowy
-- <img src="https://img.icons8.com/ios/452/lmms.png" alt="LMMS" width="20"/> LMMS
-- <img src="https://img.icons8.com/ios/452/godot.png" alt="Godot" width="20"/> Godot
-- <img src="https://img.icons8.com/ios/452/darktable.png" alt="Darktable" width="20"/> Darktable
-- <img src="https://img.icons8.com/ios/452/synfig-studio.png" alt="Synfig Studio" width="20"/> Synfig Studio
-- <img src="https://img.icons8.com/ios/452/scribus.png" alt="Scribus" width="20"/> Scribus
-- <img src="https://img.icons8.com/ios/452/pixelorama.png" alt="Pixelorama" width="20"/> Pixelorama
-- <img src="https://img.icons8.com/ios/452/inkscape.png" alt="Inkscape" width="20"/> Inkscape
-- <img src="https://img.icons8.com/ios/452/audacity.png" alt="Audacity" width="20"/> Audacity
