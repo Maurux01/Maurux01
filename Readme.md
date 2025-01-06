@@ -135,7 +135,7 @@
 
 
 
-
+ 
 <div align="center">
  <h1> ✍️ Random Dev Quote<h1>
  
@@ -146,8 +146,7 @@
 
 <div align="center">
   <h2>Connect with me 🤝🏻</h2>
-</div>
-<table style="width: 100%; background-color: white; text-align: center; border-spacing: 10px; padding: 20px;">
+  <table style="width: 100%; background-color: white; text-align: center; border-spacing: 10px; padding: 20px;">
   <tr>
     <td>
       <a href="https://stackoverflow.com/users/28065944/mauro-infante" target="_blank">
@@ -161,12 +160,12 @@
     </td>
     <td>
       <a href="https://twitter.com/maxinff" target="_blank">
-        <img src="https://img.icons8.com/fluency/48/ffffff/twitter.png" alt="Twitter" width="40" height="40">
+        <img src="image-2.png" alt="Twitter" width="40" height="40">
       </a>
     </td>
     <td>
       <a href="https://www.reddit.com/user/maxinff/" target="_blank">
-        <img src="https://img.icons8.com/fluency/48/ffffff/reddit.png" alt="Reddit" width="40" height="40">
+        <img src="image-1.png" alt="Reddit" width="40" height="40">
       </a>
     </td>
     <td>
@@ -176,5 +175,5 @@
     </td>
   </tr>
 </table>
-
+</div>
 
