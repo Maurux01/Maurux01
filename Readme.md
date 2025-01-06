@@ -159,8 +159,8 @@
       </a>
     </td>
     <td>
-      <a href="https://twitter.com/maxinff" target="white">
-        <img src="image-5.png" alt="Twitter" width="40" height="40">
+      <a href="https://twitter.com/maxinff" target="_blank">
+        <img src="image-6.png" alt="Twitter" width="40" height="40">
       </a>
     </td>
     <td>
