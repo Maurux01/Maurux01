@@ -83,6 +83,12 @@
 
 
 
+## 🏆 GitHub Trophies
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=Maurux01&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
 
 
 <div align="center">
@@ -95,6 +101,24 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maurux01&theme=tokyonight" alt="Streak Stats" />
 </div>
 
+
+### 🔝 Top Contributed Repo
+
+<!-- Tema Tokyo Night -->
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=Maurux01&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+</div>
+
+
+
+### ✍️ Random Dev Quote
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
 
 
 <div align="center">
