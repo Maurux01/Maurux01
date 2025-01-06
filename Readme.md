@@ -147,25 +147,34 @@
 <div align="center">
   <h2>Connect with me 🤝🏻</h2>
 </div>
-
-
- <a href="https://stackoverflow.com/users/28065944/mauro-infante" target="_blank">
-    <img align="center" src="https://img.icons8.com/fluency/48/stackoverflow.png" alt="Stack Overflow" height="40" width="40" />
-  </a>
-<div align="center">
-<img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" width="40" height="40">
-  </a>
-  <a href="https://linkedin.com/in/infmauro" target="_blank">  <a href="https://twitter.com/maxinff" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/twitter.png" alt="Twitter" width="40" height="40">
-  </a>  <a href="https://www.reddit.com/user/maxinff/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/reddit.png" alt="Reddit" width="40" height="40">
-  </a>
-  <a href="https://gitlab.com/Maurux01" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/gitlab.png" alt="GitLab" width="40" height="40">
-  </a>
-</div>
-
-
-
+<table style="width: 100%; background-color: white; text-align: center; border-spacing: 10px; padding: 20px;">
+  <tr>
+    <td>
+      <a href="https://stackoverflow.com/users/28065944/mauro-infante" target="_blank">
+        <img src="https://img.icons8.com/fluency/48/ffffff/stackoverflow.png" alt="Stack Overflow" height="40" width="40" />
+      </a>
+    </td>
+    <td>
+      <a href="https://linkedin.com/in/infmauro" target="_blank">
+        <img src="https://img.icons8.com/fluency/48/ffffff/linkedin.png" alt="LinkedIn" width="40" height="40">
+      </a>
+    </td>
+    <td>
+      <a href="https://twitter.com/maxinff" target="_blank">
+        <img src="https://img.icons8.com/fluency/48/ffffff/twitter.png" alt="Twitter" width="40" height="40">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.reddit.com/user/maxinff/" target="_blank">
+        <img src="https://img.icons8.com/fluency/48/ffffff/reddit.png" alt="Reddit" width="40" height="40">
+      </a>
+    </td>
+    <td>
+      <a href="https://gitlab.com/Maurux01" target="_blank">
+        <img src="image.png" alt="GitLab" width="40" height="40">
+      </a>
+    </td>
+  </tr>
+</table>
 
 
