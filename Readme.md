@@ -132,10 +132,13 @@
 </div>
 
 <div align="center">
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Maurux01&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Maurux01&show_icons=true&locale=en&theme=tokyonight" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maurux01&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical" alt="GitHub Stats" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maurux01&theme=tokyonight" alt="Streak Stats" />
 </div>
+
 
 
 
