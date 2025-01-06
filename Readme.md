@@ -150,6 +150,7 @@
 <div align="center">
   <a href="https://linkedin.com/in/infmauro" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/28065944/mauro-infante" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/28065944/mauro-infante" height="30" width="40" /></a>
   </a>
 </div>
 
