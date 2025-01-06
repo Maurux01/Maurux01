@@ -62,6 +62,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  
 </p>
 
 <div align="center">
@@ -91,16 +92,30 @@
 
 <div align="center">
   <h1> Tools 🛠️</h1>
+  <p align="center">
+  
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="50"/>
+  <img src="image-2.png" alt="Discord" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" alt="Notion" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" alt="GIMP" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="Godot" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" alt="Inkscape" width="50"/>
+</p>
+
+</p>
 </div>
 
-<p align="center"https://img.icons8.com/?size=100&id=q53th37bGbV0&format=png&color=000000
-  <img src="https://img.icons8.com/?size=100&id=efFfwotdkiU5&format=png&color=000000" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=ZOPHSR8TwTpE&format=png&color=000000" alt="Notion" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=q53th37bGbV0&format=png&color=000000" width="40" height="40"/>
-<img src="https://img.icons8.com/?size=100&id=wjQX5ziFR-a2&format=png&color=000000" width="40" height="40"/>
+
+
+
 
 
 
@@ -177,3 +192,23 @@
 </table>
 </div>
 
+## Mis herramientas y programas
+
+- <img src="https://img.icons8.com/ios/452/npm.png" alt="npm" width="20"/> npm
+- <img src="https://img.icons8.com/ios/452/docker.png" alt="Docker" width="20"/> Docker
+- <img src="https://img.icons8.com/ios/452/postman.png" alt="Postman" width="20"/> Postman
+- <img src="https://img.icons8.com/ios/452/jenkins.png" alt="Jenkins" width="20"/> Jenkins
+- <img src="https://img.icons8.com/ios/452/discord-logo.png" alt="Discord" width="20"/> Discord
+- <img src="https://img.icons8.com/ios/452/blender.png" alt="Blender" width="20"/> Blender
+- <img src="https://img.icons8.com/ios/452/krita.png" alt="Krita" width="20"/> Krita
+- <img src="https://img.icons8.com/ios/452/gimp.png" alt="GIMP" width="20"/> GIMP
+- <img src="https://img.icons8.com/ios/452/kdenlive.png" alt="Kdenlive" width="20"/> Kdenlive
+- <img src="https://img.icons8.com/ios/452/appflowy.png" alt="AppFlowy" width="20"/> AppFlowy
+- <img src="https://img.icons8.com/ios/452/lmms.png" alt="LMMS" width="20"/> LMMS
+- <img src="https://img.icons8.com/ios/452/godot.png" alt="Godot" width="20"/> Godot
+- <img src="https://img.icons8.com/ios/452/darktable.png" alt="Darktable" width="20"/> Darktable
+- <img src="https://img.icons8.com/ios/452/synfig-studio.png" alt="Synfig Studio" width="20"/> Synfig Studio
+- <img src="https://img.icons8.com/ios/452/scribus.png" alt="Scribus" width="20"/> Scribus
+- <img src="https://img.icons8.com/ios/452/pixelorama.png" alt="Pixelorama" width="20"/> Pixelorama
+- <img src="https://img.icons8.com/ios/452/inkscape.png" alt="Inkscape" width="20"/> Inkscape
+- <img src="https://img.icons8.com/ios/452/audacity.png" alt="Audacity" width="20"/> Audacity
