@@ -159,7 +159,7 @@
       </a>
     </td>
     <td>
-      <a href="https://twitter.com/maxinff" target="_blank">
+      <a href="https://twitter.com/maxinff" target="white">
         <img src="image-5.png" alt="Twitter" width="40" height="40">
       </a>
     </td>
@@ -176,6 +176,4 @@
   </tr>
 </table>
 </div>
-
-![alt text](image-5.png)
 
