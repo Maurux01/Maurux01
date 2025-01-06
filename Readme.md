@@ -11,11 +11,10 @@
 
 ![Mauro Infante](https://github.com/user-attachments/assets/6f9affe7-ffdd-4284-bfe9-d0ee138e4fa1)
 
-<div align="center">
-  <h2>About me</h2>
-   </div>
+
 
 <div align="center">
+  <h1>About me</h1>
 <h1><strong>Hi, I'm Mauro Infante👋</strong></h1>
 <h2><em>Industrial Engineer | JR software ingenieer</em></h2>
 <p align="center">
