@@ -11,12 +11,33 @@
 
 ![Mauro Infante](https://github.com/user-attachments/assets/6f9affe7-ffdd-4284-bfe9-d0ee138e4fa1)
 
+
+
 <div align="center">
-  <h2>About me</h2>
-   <li>🌱 Learning *Web development, Python, and Java* </li>
-    <li>🫂 I seek to collaborate *with other creators* </li>
-    <li>👨‍💻 All my projects are available on https://Maurux01.github.io </li>
-    <li>📫 Contact me at maurofel36@gmail.com </li>
+  <h1>About me</h1>
+<h1><strong>Hi, I'm Mauro Infante👋</strong></h1>
+<h2><em>Industrial Engineer | JR software ingenieer</em></h2>
+<p align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="snake" />
+</p>
+<table style="border: 1px solid black; width: 100%; padding: 10px;">
+  <tr>
+    <td style="border: 1px solid black; vertical-align: top; width: 75%; padding-left: 20px;">
+      <ul style="list-style-type: disc; padding-left: 20px;">
+        <li> 🌱 I’m currently learning <strong>Machine learning, and web development</strong></li>
+        <li> 👨‍💻 All of my projects are available at <a href="https://maurux01.github.io/">https://maurux01.github.io/</a></li>
+        <li> 📝 I regularly read articles on <a href="https://daily.dev/es">https://app.daily.dev</a></li>
+        <li> 💬 Ask me about <strong>HTML, CSS, Java, JavaScript, and more</strong></li>
+        <li> 🎓 You can see my certificates here: <a href="https://drive.google.com/drive/folders/1Sq5hnD3T1hJmHeicdiXK0TyH4OPDFrV3">Coding certificates</a>/<a href="https://drive.google.com/drive/folders/1yW6YV73z90q1kUUwXLvQkCM7AZ8X2lTO">Other certificates</a></li>
+        <li>📫 How to reach me: <strong>maurofel36@gmail.com</strong></li>
+        <li>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1dUKl8Rr-nrBQQGTeQ4FCkBkCtt1WxAfg/view">My curriculum</a></li>
+      </ul>
+    </td>
+    <td style="border: 1px solid black; vertical-align: top; width: 25%; padding-left: 20px;">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="GIF">
+    </td>
+  </tr>
+</table>
 </div>
 
 
@@ -83,6 +104,12 @@
 
 
 
+## 🏆 GitHub Trophies
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=Maurux01&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
 
 
 <div align="center">
@@ -97,15 +124,57 @@
 
 
 
+
+<!-- Tema Tokyo Night -->
+<div align="center">
+ <h1> 🔝 Top Contributed Repo<h1>
+
+![](https://github-contributor-stats.vercel.app/api?username=Maurux01&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+</div>
+
+
+
+
+<div align="center">
+ <h1> ✍️ Random Dev Quote<h1>
+ 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+
 <div align="center">
   <h2>Connect with me 🤝🏻</h2>
 </div>
-
-
-<div align="center">
-  <a href="https://linkedin.com/in/infmauro" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
+<table style="width: 100%; background-color: white; text-align: center; border-spacing: 10px; padding: 20px;">
+  <tr>
+    <td>
+      <a href="https://stackoverflow.com/users/28065944/mauro-infante" target="_blank">
+        <img src="https://img.icons8.com/fluency/48/ffffff/stackoverflow.png" alt="Stack Overflow" height="40" width="40" />
+      </a>
+    </td>
+    <td>
+      <a href="https://linkedin.com/in/infmauro" target="_blank">
+        <img src="https://img.icons8.com/fluency/48/ffffff/linkedin.png" alt="LinkedIn" width="40" height="40">
+      </a>
+    </td>
+    <td>
+      <a href="https://twitter.com/maxinff" target="_blank">
+        <img src="https://img.icons8.com/fluency/48/ffffff/twitter.png" alt="Twitter" width="40" height="40">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.reddit.com/user/maxinff/" target="_blank">
+        <img src="https://img.icons8.com/fluency/48/ffffff/reddit.png" alt="Reddit" width="40" height="40">
+      </a>
+    </td>
+    <td>
+      <a href="https://gitlab.com/Maurux01" target="_blank">
+        <img src="image.png" alt="GitLab" width="40" height="40">
+      </a>
+    </td>
+  </tr>
+</table>
 
 
