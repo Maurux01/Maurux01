@@ -14,9 +14,7 @@
 
 
 <div align="center">
-  <h1>About me</h1>
-<h1><strong>Hi, I'm Mauro Infante👋</strong></h1>
-<h2><em>Industrial Engineer | JR software ingenieer</em></h2>
+ 
 <p align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="snake" />
 </p>
@@ -105,20 +103,22 @@
   <p align="center">
   
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="50"/>
-  <img src="image-2.png" alt="Discord" width="50"/>
+  <!-- Herramientas de Programación/Desarrollo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" alt="Notion" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50"/>
+  <img src="image-2.png" alt="Discord" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" alt="Notion" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="Godot" width="50"/>
+
+  <!-- Herramientas de Diseño/Creación Multimedia -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="50"/>
   <img src="https://img.icons8.com/?size=256&id=b4Y5rs3iBGqE&format=png" alt="GIMP" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="Godot" width="50"/>
   <img src="https://img.icons8.com/?size=256&id=63150&format=png" alt="Inkscape" width="50"/>
-
   <img src="https://img.icons8.com/?size=256&id=HwN2KHJZmGGN&format=png" alt="Krita" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Breezeicons-apps-48-kdenlive.svg/800px-Breezeicons-apps-48-kdenlive.svg.png" alt="Kdenlive" width="50" height="50"/>
   <img src="https://img.icons8.com/?size=256&id=L6zSjFS4HZZy&format=png" alt="LMMS" width="50" height="50"/>
@@ -128,11 +128,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Pixelorama_Icon.png?20211216231235" alt="Pixelorama" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Audacity.png" alt="Audacity" width="50" height="50"/>
 </p>
-
-</p>
-
-</p>
-</div>
 
 
 
@@ -187,33 +182,39 @@
 <div align="center">
   <h2>Connect with me 🤝🏻</h2>
   <table style="width: 100%; background-color: white; text-align: center; border-spacing: 10px; padding: 20px;">
-  <tr>
-    <td>
-      <a href="https://stackoverflow.com/users/28065944/mauro-infante" target="_blank">
-        <img src="https://img.icons8.com/fluency/48/ffffff/stackoverflow.png" alt="Stack Overflow" height="40" width="40" />
-      </a>
-    </td>
-    <td>
-      <a href="https://linkedin.com/in/infmauro" target="_blank">
-        <img src="https://img.icons8.com/fluency/48/ffffff/linkedin.png" alt="LinkedIn" width="40" height="40">
-      </a>
-    </td>
-    <td>
-      <a href="https://twitter.com/maufel2" target="_blank">
-        <img src="image-6.png" alt="Twitter" width="40" height="40">
-      </a>
-    </td>
-    <td>
-      <a href="https://www.reddit.com/user/maxinff/" target="_blank">
-        <img src="image-1.png" alt="Reddit" width="40" height="40">
-      </a>
-    </td>
-    <td>
-      <a href="https://gitlab.com/Maurux01" target="_blank">
-        <img src="image.png" alt="GitLab" width="40" height="40">
-      </a>
-    </td>
-  </tr>
-</table>
-</div>
+    <tr>
+      <td>
+        <a href="https://stackoverflow.com/users/28065944/mauro-infante" target="_blank">
+          <img src="https://img.icons8.com/fluency/48/ffffff/stackoverflow.png" alt="Stack Overflow" height="40" width="40" />
+        </a>
+      </td>
+      <td>
+        <a href="https://linkedin.com/in/infmauro" target="_blank">
+          <img src="https://img.icons8.com/fluency/48/ffffff/linkedin.png" alt="LinkedIn" width="40" height="40">
+        </a>
+      </td>
+      <td>
+        <a href="https://twitter.com/maxinff" target="_blank">
+          <img src="image-6.png" alt="Twitter" width="40" height="40">
+        </a>
+      </td>
+      <td>
+        <a href="https://www.reddit.com/user/maxinff/" target="_blank">
+          <img src="image-1.png" alt="Reddit" width="40" height="40">
+        </a>
+      </td>
+      <td>
+        <a href="https://gitlab.com/Maurux01" target="_blank">
+          <img src="image.png" alt="GitLab" width="40" height="40">
+        </a>
+      </td>
+      <td>
+        <a href="https://www.youtube.com/@maurux01" target="_blank">
+          <img src="https://img.icons8.com/fluency/48/ffffff/youtube-play.png" alt="YouTube" width="40" height="40">
+        </a>
+      </td>
+    </tr>
+  </table>
+
+
 
