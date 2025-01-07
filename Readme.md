@@ -178,6 +178,7 @@
 
 </div>
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31vfyogxf5yityzuk53epew2fiui)
 
 <div align="center">
   <h2>Connect with me 🤝🏻</h2>
