@@ -147,13 +147,17 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Maurux01&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maurux01&layout=compact&theme=tokyonight)
 
 
-  <img src="https://github-readme-stats.vercel.app/api?username=maurux01&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical" alt="GitHub Stats" />
+  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maurux01&show_icons=true&count_private=true&theme=tokyonight)
 
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maurux01&theme=tokyonight" alt="Streak Stats" />
+
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maurux01&theme=tokyonight&hide_border=true)
+
 </div>
 
 
