@@ -255,3 +255,7 @@
 
 
 
+### ☕ Support me by buying a coffee  
+If you like my work, you can support me by buying a coffee:  
+
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/maurofel36e)
