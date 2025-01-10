@@ -159,12 +159,15 @@
 
 <div align="center">
 
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maurux01&theme=tokyonight&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maurux01&show_icons=true&hide_title=true&count_private=true&theme=tokyonight)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maurux01&layout=compact&theme=tokyonight&hide_border=true)
 
 
-
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maurux01&show_icons=true&hide_title=true&count_private=true&theme=tokyonight)
 
 
 </div>
