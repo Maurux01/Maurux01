@@ -1,9 +1,16 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMaurux01&count_bg=%2334C09B&title_bg=%23555555&icon=github.svg&icon_color=%23EF602E&title=Viewers&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <div align="center">
-  <h1>Hi there, 👋 I’m Mauro Infante</h1>
-  <h3>Industrial Engineer | Jr Software Engineer</h3>
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=6FC3DF&lines=Hello,+I'm+Maurux01!;I+love+coding+and+technology.;Welcome+to+my+profile!)](https://github.com/maurux01)
+
+
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=6FC3DF&lines=Industrial+Enginieer;and+Jr+Software+Egninieer)]
+
+  
 </div>
+
+
 
 
 
@@ -35,6 +42,11 @@
   </tr>
 </table>
 </div>
+
+<a href="https://app.daily.dev/maurux">
+  <img src="https://api.daily.dev/devcards/maurux.svg" width="400" alt="Dev Card de Maurux"/>
+</a>
+
 
 
 
@@ -152,7 +164,8 @@
 
   
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maurux01&show_icons=true&count_private=true&theme=tokyonight)
+![Commit Activity](https://github-readme-stats.vercel.app/api?username=maurux01&show_icons=true&count_private=true&line_height=21&theme=tokyonight)
+
 
 
 
@@ -170,15 +183,23 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=Maurux01&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maurux01&theme=tokyo-night)
+
 </div>
 
 
+<a href="https://profile.codersrank.io/user/maurux01">
+  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=maurux01" alt="Skills Chart" />
+</a>
 
  
 <div align="center">
  <h1> ✍️ Random Dev Quote<h1>
  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
 
 </div>
 
