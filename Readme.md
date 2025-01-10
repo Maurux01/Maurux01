@@ -19,12 +19,6 @@
 
 
 
-
-
-![Mauro Infante](https://github.com/user-attachments/assets/6f9affe7-ffdd-4284-bfe9-d0ee138e4fa1)
-
-
-
 <div align="center">
  
 
@@ -48,10 +42,6 @@
 </table>
 </div>
 
-<a href="https://app.daily.dev/maurux">
-  <img src="https://api.daily.dev/devcards/maurux.svg" width="400" alt="Dev Card de Maurux"/>
-</a>
-
 
 
 
@@ -60,6 +50,7 @@
 <div align="center">
   <h1>Technologies 🧑‍💻</h1>
 </div>
+
 
 
 
@@ -153,7 +144,11 @@
 ## 🏆 GitHub Trophies
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Maurux01&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=maurux01&theme=radical)
+
+
+
 
 </div>
 
@@ -164,17 +159,13 @@
 
 <div align="center">
 
- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maurux01&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maurux01&layout=compact&theme=tokyonight&hide_border=true)
+
 
 
   
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maurux01&show_icons=true&hide_title=true&count_private=true&theme=tokyonight)
 
-![Commit Activity](https://github-readme-stats.vercel.app/api?username=maurux01&show_icons=true&count_private=true&line_height=21&theme=tokyonight)
-
-
-
-
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maurux01&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -192,6 +183,7 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maurux01&theme=tokyo-night)
 
 </div>
+
 
 
 <a href="https://profile.codersrank.io/user/maurux01">
