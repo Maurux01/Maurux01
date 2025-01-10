@@ -162,7 +162,9 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maurux01&theme=tokyonight&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maurux01&show_icons=true&hide_title=true&count_private=true&theme=tokyonight)
+
+![Total Contributions](https://github-readme-stats.vercel.app/api?username=maurux01&count_private=true&show_icons=true&theme=tokyonight)
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maurux01&layout=compact&theme=tokyonight&hide_border=true)
@@ -180,24 +182,26 @@
 <div align="center">
  <h1> 🔝 Top Contributed Repo<h1>
 
-![](https://github-contributor-stats.vercel.app/api?username=Maurux01&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maurux01&theme=tokyo-night)
+ ![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=maurux01&repo=maurux01.github.io&theme=tokyonight)
 
 </div>
 
+<div>
+<h1> 📈 Contribution Graph <h1>
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maurux01&theme=tokyo-night)
 
 <a href="https://profile.codersrank.io/user/maurux01">
-  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=maurux01" alt="Skills Chart" />
+  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mauro infante" alt="Skills Chart"/>
 </a>
-
+</div>
  
 <div align="center">
  <h1> ✍️ Random Dev Quote<h1>
  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<h1> 😂 Joke<h1>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
@@ -254,3 +258,5 @@
 If you like my work, you can support me by buying a coffee:  
 
 [![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/maurofel36e)
+
+
