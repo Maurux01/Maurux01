@@ -216,7 +216,7 @@
 </div>
 
 <div align="center">
-  <h1>Connect with me 🤝🏻</h1>
+ <h1>Connect with me 🤝🏻</h1>
   <table style="width: 100%; background-color: white; text-align: center; border-spacing: 10px; padding: 20px;">
     <tr>
       <td>
@@ -256,10 +256,9 @@
 <div>
   
 <h1>☕ Support me by buying a coffee  </h1> 
-If you like my work, you can support me by buying a coffee:  
+<h2>If you like my work, you can support me by buying a coffee </h2> 
 
 [![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/maurofel36e)
-
   
 </div>
 
