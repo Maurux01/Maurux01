@@ -32,7 +32,7 @@
         <li> 💬 Ask me about <strong>HTML, CSS, Java, JavaScript, and more</strong></li>
         <li> 🎓 You can see my certificates here: <a href="https://drive.google.com/drive/folders/1Sq5hnD3T1hJmHeicdiXK0TyH4OPDFrV3">Coding certificates</a>/<a href="https://drive.google.com/drive/folders/1yW6YV73z90q1kUUwXLvQkCM7AZ8X2lTO">Other certificates</a></li>
         <li>📫 How to reach me: <strong>maurofel36@gmail.com</strong></li>
-        <li>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1dUKl8Rr-nrBQQGTeQ4FCkBkCtt1WxAfg/view">My curriculum</a></li>
+        <li>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1jWo6rGPY5Gjf7cLy88XKt0zkzlYzjoPM/view?usp=drive_link">My curriculum</a></li>
       </ul>
     </td>
     <td style="border: 1px solid black; vertical-align: top; width: 25%; padding-left: 20px;">
