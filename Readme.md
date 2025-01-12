@@ -11,11 +11,6 @@
 
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=6FC3DF&lines=Industrial+Enginieer;and+Jr+Software+Egninieer)
 
-<p align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="snake" />
-</p>
-  
-</div>
 
 
 
