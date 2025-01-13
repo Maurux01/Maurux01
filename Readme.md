@@ -244,16 +244,26 @@
 
 
 <div>
-  
-<h1>☕ Support me by buying a coffee  </h1> 
-
-If you like my work, you can support me by buying a coffee 
-
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/maurofel36e)
-
-
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=HRZTRQ4J2S3HN)
-
+<table>
+  <tr>
+    <th colspan="2"><h2>☕ Support me by buying a coffee</h2></th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://buymeacoffee.com/maurofel36e">
+        <img src="https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.paypal.com/donate/?hosted_button_id=HRZTRQ4J2S3HN">
+        <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Donate with PayPal">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">If you like my work, you can support me by buying a coffee</td>
+  </tr>
+</table>
 </div>
 
 
