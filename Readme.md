@@ -1,10 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMaurux01&count_bg=%2334C09B&title_bg=%23555555&icon=github.svg&icon_color=%23EF602E&title=Viewers&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<div align="center">
 
-<p align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="snake" />
-</p>
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=6FC3DF&lines=Hello,+I'm+Maurux01!;I+love+coding+and+technology.;Welcome+to+my+profile!)](https://github.com/maurux01)
 
