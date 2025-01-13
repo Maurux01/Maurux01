@@ -261,7 +261,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">If you like my work, you can support me by buying a coffee</td>
+    <td colspan="2" align="center">If you like my work, you can support me by buying a coffee or paypal donation 😊❤️</td>
   </tr>
 </table>
 </div>
