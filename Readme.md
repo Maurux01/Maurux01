@@ -220,7 +220,7 @@
         </a>
       </td>
       <td>
-        <a href="https://twitter.com/maxinff" target="_blank">
+        <a href="https://twitter.com/maufel2" target="_blank">
           <img src="image-6.png" alt="Twitter" width="40" height="40">
         </a>
       </td>
