@@ -2,7 +2,7 @@
 
 
 <div align="center">
-
+  
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=6FC3DF&lines=Hello,+I'm+Maurux01!;I+love+coding+and+technology.;Welcome+to+my+profile!)](https://github.com/maurux01)
 
 
