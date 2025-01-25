@@ -6,8 +6,6 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=6FC3DF&lines=Hello,+I'm+Maurux01!;I+love+coding+and+technology.;Welcome+to+my+profile!)](https://github.com/maurux01)
 
 
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=6FC3DF&lines=Industrial+Enginieer;and+Jr+Software+Egninieer)
-
 
 <div align="center">
  
@@ -33,6 +31,7 @@
 </div>
 
 
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=6FC3DF&lines=Industrial+Enginieer;and+Jr+Software+Egninieer)
 
 
 
