@@ -246,7 +246,7 @@
 <div>
 <table>
   <tr>
-    <th colspan="2"><h2>☕ Support me by buying a coffee</h2></th>
+    <th colspan="2"><h1>☕ Support me by buying a coffee</h1></th>
   </tr>
   <tr>
     <td align="center">
