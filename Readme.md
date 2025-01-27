@@ -105,12 +105,8 @@
 </div>
 
 
+## My Stats 📊
 <div align="center">
-  <h1>My Stats 🏆</h1>
-</div>
-
-<div align="center">
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maurux01&layout=compact&theme=tokyonight&hide_border=true)
 
@@ -194,7 +190,7 @@
   
 <table>
   <tr>
-    <th colspan="2"><h1>☕ Support me by buying a coffee</h1></th>
+    <th colspan="2"><h2>☕ Support me by buying a coffee</h2></th>
   </tr>
   <tr>
     <td align="center">
