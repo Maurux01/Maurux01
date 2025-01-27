@@ -148,11 +148,11 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 </div>
 
-<div>
-<h1>  🎧 Rencently listened<h1>
+
+ ## 🎧 Rencently listened
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31vfyogxf5yityzuk53epew2fiui)
-</div>
+
 
 
 
@@ -193,7 +193,8 @@
       </td>
     </tr>
   </table>
-    
+  </div>
+  
 <table>
   <tr>
     <th colspan="2"><h1>☕ Support me by buying a coffee</h1></th>
