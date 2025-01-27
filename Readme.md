@@ -127,7 +127,7 @@
 [![Maurux01/Maurux01](https://github-readme-stats.vercel.app/api/pin/?username=Maurux01&repo=Maurux01&theme=radical)](https://github.com/Maurux01/Maurux01)
 </div>
 
-
+[![Snake Game](https://raw.githubusercontent.com/maurux01/maurux01.github.io/main/assets/github-snake.svg)](https://github.com/maurux01)
 
 ## 📈 Contribution Graph 
 <div>
