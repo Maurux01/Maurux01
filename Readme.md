@@ -1,35 +1,4 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMaurux01&count_bg=%2334C09B&title_bg=%23555555&icon=github.svg&icon_color=%23EF602E&title=Viewers&edge_flat=false)](https://hits.seeyoufarm.com) [freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=white)<div align="center">
-  <!-- Plataformas de aprendizaje -->
-  ![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=white)
-  ![Codecademy](https://img.shields.io/badge/Codecademy-1F4056?logo=codecademy&logoColor=white)
-  ![Codewars](https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=white)
-  ![GitHub Skills](https://img.shields.io/badge/GitHub_Skills-181717?logo=github&logoColor=white)
-
-  <!-- Tecnologías -->
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-
-  <!-- Logros GitHub -->
-  ![Starstruck](https://img.shields.io/badge/-Starstruck-yellow)
-  ![Pull Shark](https://img.shields.io/badge/-Pull_Shark-purple)
-  ![Quickdraw](https://img.shields.io/badge/-Quickdraw-blue)
-  ![Pair Extraordinaire](https://img.shields.io/badge/-Pair_Extraordinaire-green)
-
-  <!-- Certificaciones (personaliza) -->
-  ![Responsive Web Design](https://img.shields.io/badge/FreeCodeCamp-Responsive_Web_Design-0A0A23)
-  ![JavaScript Algorithms](https://img.shields.io/badge/FreeCodeCamp-JavaScript_Algorithms-0A0A23)
-
-  <!-- Personalizados -->
-  ![DiscordThemes](https://img.shields.io/badge/DiscordThemes-CSS_Customizer-5865F2)
-</div>
-
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 <div align="center">
   
