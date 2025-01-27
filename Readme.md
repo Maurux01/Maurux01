@@ -125,7 +125,7 @@
 <div align="center">
  <h1> 🔝 🏆 Most Contributed Repo  <h1>
 
-[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=maurux01&repo=mauxu01&theme=radical)](https://github.com/maurux01/YOUR_REPO_NAME)
+[![Maurux01/Maurux01](https://github-readme-stats.vercel.app/api/pin/?username=Maurux01&repo=Maurux01&theme=radical)](https://github.com/Maurux01/Maurux01)
 
 </div>
 
