@@ -29,8 +29,6 @@
 <div align="center">
   <h1>Technologies 🧑‍💻</h1>
 </div>
-
-<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
@@ -49,19 +47,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   
-</p>
 
 <div align="center">
   <h1>Libraries 📚</h1>
 </div>
-
-<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" alt="Tailwind CSS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40"/>
   <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40"/>
-</p>
+
 
 
 
@@ -79,9 +74,6 @@
 
 <div align="center">
   <h1> Tools 🛠️</h1>
-  <p align="center">
-  
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50"/>
@@ -92,8 +84,6 @@
   <img src="image-2.png" alt="Discord" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" alt="Notion" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="Godot" width="50"/>
-
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="50"/>
   <img src="https://img.icons8.com/?size=256&id=b4Y5rs3iBGqE&format=png" alt="GIMP" width="50"/>
   <img src="https://img.icons8.com/?size=256&id=63150&format=png" alt="Inkscape" width="50"/>
@@ -150,25 +140,15 @@
 </div>
  
 <div align="center">
- <h1> ✍️ Random Dev Quote<h1>
+ <h1> ✍️ Random Dev Quote/Joke 😂 <h1>
  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<h1> 😂 Joke<h1>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
-
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 </div>
 
 <div>
 <h1>  🎧 Rencently listened<h1>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31vfyogxf5yityzuk53epew2fiui)
-
-</div>
-
-<div align="center">
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31vfyogxf5yityzuk53epew2fiui)<div align="center">
  <h1>Connect with me 🤝🏻</h1>
   <table style="width: 100%; background-color: white; text-align: center; border-spacing: 10px; padding: 20px;">
     <tr>
@@ -204,6 +184,9 @@
       </td>
     </tr>
   </table>
+
+</div>
+
 
 
 <div>
