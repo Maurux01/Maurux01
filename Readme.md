@@ -17,6 +17,7 @@
         <li> 🎓 You can see my certificates here: <a href="https://drive.google.com/drive/folders/1Sq5hnD3T1hJmHeicdiXK0TyH4OPDFrV3">Coding certificates</a>/<a href="https://drive.google.com/drive/folders/1yW6YV73z90q1kUUwXLvQkCM7AZ8X2lTO">Other certificates</a></li>
         <li>📫 How to reach me: <strong>maurofel36@gmail.com</strong></li>
         <li>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1jWo6rGPY5Gjf7cLy88XKt0zkzlYzjoPM/view?usp=drive_link">My curriculum</a></li>
+        <li> 👷‍♂️ Im open to colaborate in proyects</li>
       </ul>
     </td>
     <td style="border: 1px solid black; vertical-align: top; width: 25%; padding-left: 20px;">
@@ -29,8 +30,7 @@
 
 ## Technologies 🧑‍💻
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
