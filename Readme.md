@@ -150,7 +150,7 @@
 
 
 
-## Connect with me 🤝🏻
+## Connect with me 🤝🏻/ ☕ Support me by buying a coffee or paypal
   <table style="width: 100%; background-color: white; text-align: center; border-spacing: 10px; padding: 20px;">
     <tr>
       <td>
@@ -183,9 +183,6 @@
           <img src="https://img.icons8.com/fluency/48/ffffff/youtube-play.png" alt="YouTube" width="40" height="40">
         </a>
       </td>
-    </tr>
-    <tr>
-      <th colspan="6"><h2>☕ Support me by buying a coffee</h2></th>
     </tr>
     <tr>
       <td colspan="3" align="center">
