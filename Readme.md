@@ -148,7 +148,13 @@
 <div>
 <h1>  🎧 Rencently listened<h1>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31vfyogxf5yityzuk53epew2fiui)<div align="center">
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31vfyogxf5yityzuk53epew2fiui)
+</div>
+
+
+
+<div>
+  <div align="center">
  <h1>Connect with me 🤝🏻</h1>
   <table style="width: 100%; background-color: white; text-align: center; border-spacing: 10px; padding: 20px;">
     <tr>
@@ -184,12 +190,7 @@
       </td>
     </tr>
   </table>
-
-</div>
-
-
-
-<div>
+    
 <table>
   <tr>
     <th colspan="2"><h1>☕ Support me by buying a coffee</h1></th>
