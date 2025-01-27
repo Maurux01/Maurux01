@@ -156,7 +156,7 @@
 
 
 
-<div>
+
   <div align="center">
  <h1>Connect with me 🤝🏻</h1>
   <table style="width: 100%; background-color: white; text-align: center; border-spacing: 10px; padding: 20px;">
