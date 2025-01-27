@@ -27,9 +27,8 @@
 </div>
 
 
-<div align="center">
-  <h1>Technologies 🧑‍💻</h1>
-</div>
+## Technologies 🧑‍💻
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
@@ -49,9 +48,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   
 
-<div align="center">
-  <h1>Libraries 📚</h1>
-</div>
+
+## Libraries 📚
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" alt="Tailwind CSS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
@@ -61,10 +59,8 @@
 
 
 
-<div align="center">
-<h1>Frameworks🌐</h1>
-</div>
 
+## Frameworks🌐
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
@@ -73,8 +69,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
 
 
-<div align="center">
-  <h1> Tools 🛠️</h1>
+## Tools 🛠️
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50"/>
@@ -126,8 +121,6 @@
   
 [![Maurux01/Maurux01](https://github-readme-stats.vercel.app/api/pin/?username=Maurux01&repo=Maurux01&theme=radical)](https://github.com/Maurux01/Maurux01)
 </div>
-
-[![Snake Game](https://raw.githubusercontent.com/maurux01/maurux01.github.io/main/assets/github-snake.svg)](https://github.com/maurux01)
 
 ## 📈 Contribution Graph 
 <div>
