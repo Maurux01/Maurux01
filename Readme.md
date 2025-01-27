@@ -124,26 +124,24 @@
 
 
 
-<!-- Tema Tokyo Night -->
+## 🔝 🏆 Most Contributed Repo 
+
 <div align="center">
- <h1> 🔝 🏆 Most Contributed Repo  <h1>
-
+  
 [![Maurux01/Maurux01](https://github-readme-stats.vercel.app/api/pin/?username=Maurux01&repo=Maurux01&theme=radical)](https://github.com/Maurux01/Maurux01)
-
 </div>
 
+
+
+## 📈 Contribution Graph 
 <div>
-<h1> 📈 Contribution Graph <h1>
   
 ![Actividad](https://github-readme-activity-graph.vercel.app/graph?username=maurux01&theme=react-dark)
-  
-<a href="https://profile.codersrank.io/user/maurux01">
-  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mauroinfante" alt="Skills Chart"/>
-</a>
 </div>
- 
+
+
+ ## ✍️ Random Dev Quote/Joke 😂
 <div align="center">
- <h1> ✍️ Random Dev Quote/Joke 😂 <h1>
  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 </div>
@@ -156,9 +154,8 @@
 
 
 
-
+## Connect with me 🤝🏻
   <div align="center">
- <h1>Connect with me 🤝🏻</h1>
   <table style="width: 100%; background-color: white; text-align: center; border-spacing: 10px; padding: 20px;">
     <tr>
       <td>
