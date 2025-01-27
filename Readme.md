@@ -151,7 +151,6 @@
 
 
 ## Connect with me 🤝🏻
-  <div align="center">
   <table style="width: 100%; background-color: white; text-align: center; border-spacing: 10px; padding: 20px;">
     <tr>
       <td>
@@ -185,29 +184,22 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <th colspan="6"><h2>☕ Support me by buying a coffee</h2></th>
+    </tr>
+    <tr>
+      <td colspan="3" align="center">
+        <a href="https://buymeacoffee.com/maurofel36e">
+          <img src="https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
+        </a>
+      </td>
+      <td colspan="3" align="center">
+        <a href="https://www.paypal.com/donate/?hosted_button_id=HRZTRQ4J2S3HN">
+          <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Donate with PayPal">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="6" align="center">If you like my work, you can support me by buying a coffee or PayPal donation 😊❤️</td>
+    </tr>
   </table>
-  </div>
-  
-<table>
-  <tr>
-    <th colspan="2"><h2>☕ Support me by buying a coffee</h2></th>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://buymeacoffee.com/maurofel36e">
-        <img src="https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.paypal.com/donate/?hosted_button_id=HRZTRQ4J2S3HN">
-        <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Donate with PayPal">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">If you like my work, you can support me by buying a coffee or paypal donation 😊❤️</td>
-  </tr>
-</table>
-</div>
-
-
