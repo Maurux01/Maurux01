@@ -69,21 +69,19 @@
 <h1>Frameworks🌐</h1>
 </div>
 
-<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=lRjcvhvtR81o&format=png&color=000000 " alt="Laravel" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-</p>
+
 
 <div align="center">
   <h1> Tools 🛠️</h1>
   <p align="center">
   
-<p align="center">
-  <!-- Herramientas de Programación/Desarrollo -->
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50"/>
@@ -95,7 +93,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" alt="Notion" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="Godot" width="50"/>
 
-  <!-- Herramientas de Diseño/Creación Multimedia -->
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="50"/>
   <img src="https://img.icons8.com/?size=256&id=b4Y5rs3iBGqE&format=png" alt="GIMP" width="50"/>
   <img src="https://img.icons8.com/?size=256&id=63150&format=png" alt="Inkscape" width="50"/>
@@ -107,23 +105,12 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Scribus_logo.svg/135px-Scribus_logo.svg.png" alt="Scribus" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Pixelorama_Icon.png?20211216231235" alt="Pixelorama" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Audacity.png" alt="Audacity" width="50" height="50"/>
-</p>
-
-
-
-
-
 
 
 ## 🏆 GitHub Trophies
 <div align="center">
 
-
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=maurux01&theme=radical)
-
-
-
-
 </div>
 
 
@@ -132,20 +119,12 @@
 </div>
 
 <div align="center">
-
-
+  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maurux01&theme=tokyonight&hide_border=true)
-
 
 ![Total Contributions](https://github-readme-stats.vercel.app/api?username=maurux01&count_private=true&show_icons=true&theme=tokyonight)
 
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maurux01&layout=compact&theme=tokyonight&hide_border=true)
-
-
-
-
 </div>
 
 
