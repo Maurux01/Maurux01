@@ -1,14 +1,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMaurux01&count_bg=%2334C09B&title_bg=%23555555&icon=github.svg&icon_color=%23EF602E&title=Viewers&edge_flat=false)](https://hits.seeyoufarm.com) [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/maurux01) ![Sponsors](https://img.shields.io/github/sponsors/maurux01?color=red&logo=githubsponsors)![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=white)
 
 
-
-
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=6FC3DF&lines=Hello,+I'm+Maurux01!;I+love+coding+and+technology.;Welcome+to+my+profile!)](https://github.com/maurux01)
-
 <div align="center">
-
 <table style="border: 1px solid black; width: 100%; padding: 10px;">
   <tr>
     <td style="border: 1px solid black; vertical-align: top; width: 75%; padding-left: 20px;">
@@ -28,21 +24,10 @@
   </tr>
 </table>
 </div>
-
-
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=6FC3DF&lines=Industrial+Enginieer;and+Jr+Software+Egninieer)
-
-
-
-
 <div align="center">
   <h1>Technologies 🧑‍💻</h1>
 </div>
-
-
-
-
-
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
