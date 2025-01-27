@@ -152,52 +152,61 @@
 
 
 ## Connect with me 🤝🏻/ ☕ Support me by buying a coffee or paypal
-  <table style="width: 100%; background-color: white; text-align: center; border-spacing: 10px; padding: 20px;">
-    <tr>
-      <td>
-        <a href="https://stackoverflow.com/users/28065944/mauro-infante" target="_blank">
-          <img src="https://img.icons8.com/fluency/48/ffffff/stackoverflow.png" alt="Stack Overflow" height="40" width="40" />
-        </a>
-      </td>
-      <td>
-        <a href="https://linkedin.com/in/infmauro" target="_blank">
-          <img src="https://img.icons8.com/fluency/48/ffffff/linkedin.png" alt="LinkedIn" width="40" height="40">
-        </a>
-      </td>
-      <td>
-        <a href="https://twitter.com/maufel2" target="_blank">
-          <img src="image-6.png" alt="Twitter" width="40" height="40">
-        </a>
-      </td>
-      <td>
-        <a href="https://www.reddit.com/user/maxinff/" target="_blank">
-          <img src="image-1.png" alt="Reddit" width="40" height="40">
-        </a>
-      </td>
-      <td>
-        <a href="https://gitlab.com/Maurux01" target="_blank">
-          <img src="image.png" alt="GitLab" width="40" height="40">
-        </a>
-      </td>
-      <td>
-        <a href="https://www.youtube.com/@maurux01" target="_blank">
-          <img src="https://img.icons8.com/fluency/48/ffffff/youtube-play.png" alt="YouTube" width="40" height="40">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="3" align="center">
-        <a href="https://buymeacoffee.com/maurofel36e">
-          <img src="https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
-        </a>
-      </td>
-      <td colspan="3" align="center">
-        <a href="https://www.paypal.com/donate/?hosted_button_id=HRZTRQ4J2S3HN">
-          <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Donate with PayPal">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="6" align="center">If you like my work, you can support me by buying a coffee or PayPal donation 😊❤️</td>
-    </tr>
-  </table>
+<table style="width: 100%; background-color: white; border-spacing: 15px; margin: auto; text-align: center;">
+  <tr>
+    <!-- Social Icons -->
+    <td style="vertical-align: middle; padding: 10px;">
+      <a href="https://stackoverflow.com/users/28065944/mauro-infante" target="_blank">
+        <img src="https://img.icons8.com/fluency/48/stackoverflow.png" alt="Stack Overflow" style="width: 40px; height: 40px;">
+      </a>
+    </td>
+    <td style="vertical-align: middle; padding: 10px;">
+      <a href="https://linkedin.com/in/infmauro" target="_blank">
+        <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" style="width: 40px; height: 40px;">
+      </a>
+    </td>
+    <td style="vertical-align: middle; padding: 10px;">
+      <a href="https://twitter.com/maufel2" target="_blank">
+        <img src="https://img.icons8.com/fluency/48/twitterx.png" alt="Twitter" style="width: 40px; height: 40px;">
+      </a>
+    </td>
+    <td style="vertical-align: middle; padding: 10px;">
+      <a href="https://www.reddit.com/user/maxinff/" target="_blank">
+        <img src="https://img.icons8.com/fluency/48/reddit.png" alt="Reddit" style="width: 40px; height: 40px;">
+      </a>
+    </td>
+    <td style="vertical-align: middle; padding: 10px;">
+      <a href="https://gitlab.com/Maurux01" target="_blank">
+        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-gitlab-a-complete-devops-platform-with-a-git-repository-manager-provider-logo-color-tal-revivo.png" alt="GitLab" style="width: 40px; height: 40px;">
+      </a>
+    </td>
+    <td style="vertical-align: middle; padding: 10px;">
+      <a href="https://www.youtube.com/@maurux01" target="_blank">
+        <img src="https://img.icons8.com/fluency/48/youtube-play.png" alt="YouTube" style="width: 40px; height: 40px;">
+      </a>
+    </td>
+  </tr>
+  
+  <!-- Donation Buttons -->
+  <tr>
+    <td colspan="3" style="padding: 15px; text-align: center;">
+      <a href="https://buymeacoffee.com/maurofel36e" style="display: inline-block;">
+        <img src="https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee">
+      </a>
+    </td>
+    <td colspan="3" style="padding: 15px; text-align: center;">
+      <a href="https://www.paypal.com/donate/?hosted_button_id=HRZTRQ4J2S3HN" style="display: inline-block;">
+        <img src="https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Donate with PayPal">
+      </a>
+    </td>
+  </tr>
+  
+  <!-- Text Message -->
+  <tr>
+    <td colspan="6" style="padding-top: 20px; text-align: center;">
+      <p style="color: #333; font-family: Arial, sans-serif; font-size: 14px; margin: 0; background: #f8f9fa; padding: 10px; border-radius: 5px;">
+        If you like my work, you can support me with a coffee or PayPal donation 😊❤️
+      </p>
+    </td>
+  </tr>
+</table>
