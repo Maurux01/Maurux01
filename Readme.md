@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMaurux01&count_bg=%2334C09B&title_bg=%23555555&icon=github.svg&icon_color=%23EF602E&title=Viewers&edge_flat=false)](https://hits.seeyoufarm.com) ![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=white)[![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/maurux01) ![Sponsors](https://img.shields.io/github/sponsors/maurux01?color=red&logo=githubsponsors)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMaurux01&count_bg=%2334C09B&title_bg=%23555555&icon=github.svg&icon_color=%23EF602E&title=Viewers&edge_flat=false)](https://hits.seeyoufarm.com) [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/maurux01) ![Sponsors](https://img.shields.io/github/sponsors/maurux01?color=red&logo=githubsponsors)![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=white)
 
 
 
