@@ -1,6 +1,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMaurux01&count_bg=%2334C09B&title_bg=%23555555&icon=github.svg&icon_color=%23EF602E&title=Viewers&edge_flat=false)](https://hits.seeyoufarm.com)
 
-
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=6FC3DF&lines=Hello,+I'm+Maurux01!;I+love+coding+and+technology.;Welcome+to+my+profile!)](https://github.com/maurux01)
@@ -174,11 +173,11 @@
 
 <div>
 <h1> 📈 Contribution Graph <h1>
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maurux01&theme=tokyo-night)
-
+  
+![Actividad](https://github-readme-activity-graph.vercel.app/graph?username=maurux01&theme=react-dark)
+  
 <a href="https://profile.codersrank.io/user/maurux01">
-  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mauro infante" alt="Skills Chart"/>
+  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mauroinfante" alt="Skills Chart"/>
 </a>
 </div>
  
