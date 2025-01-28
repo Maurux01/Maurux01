@@ -195,8 +195,9 @@
       <img src="https://img.icons8.com/fluency/48/reddit.png" alt="Reddit" style="width: 40px; height: 40px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
     </a>
     <a href="https://gitlab.com/Maurux01" target="_blank">
-      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-gitlab-a-complete-devops-platform-with-a-git-repository-manager-provider-logo-color-tal-revivo.png" alt="GitLab" style="width: 40px; height: 40px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-    </a>
+<img src="https://img.icons8.com/color/48/gitlab.png" alt="GitLab" style="width: 40px; height: 40px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+
+   </a>
     <a href="https://www.youtube.com/@maurux01" target="_blank">
       <img src="https://img.icons8.com/fluency/48/youtube-play.png" alt="YouTube" style="width: 40px; height: 40px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
     </a>
