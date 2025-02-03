@@ -99,8 +99,8 @@
     </td>
     <!-- Column 3 -->
     <td valign="top" width="33%">
-      <h3 style="margin: 0"><strong>Tools & More</strong></h3>
       <div align="center">
+          <h3 style="margin: 0"><strong>Tools & More</strong></h3>
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
         <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
@@ -117,6 +117,7 @@
         <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white">
         <img src="https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obs-studio&logoColor=white">
         <img src="https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white">
+        <img src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="GIMP">
       </div>
     </td>
   </tr>
