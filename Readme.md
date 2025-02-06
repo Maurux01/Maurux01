@@ -2,15 +2,7 @@
 
   ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMaurux01&count_bg=%2334C09B&title_bg=%23555555&icon=github.svg&icon_color=%23EF602E&title=Viewers&edge_flat=false)
   
-  ![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=black)
-  
-  ![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=white)
-  
-  [![Platzi](https://img.shields.io/badge/Platzi-98CA3F?logo=platzi&logoColor=white)](https://platzi.com)
-[![Mimo](https://img.shields.io/badge/Mimo-5C3EE8?logo=mimo&logoColor=white)](https://getmimo.com)
-  [![Código Facilito](https://img.shields.io/badge/Código_Facilito-0056D2?logoColor=white)](https://codigofacilito.com)
-[![Cursa](https://img.shields.io/badge/Cursa-0078D7?logo=cursa&logoColor=white)](https://cursa.io)
-[![SoloLearn](https://img.shields.io/badge/SoloLearn-354A5F?logo=sololearn&logoColor=white)](https://www.sololearn.com)
+  ![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=black) ![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=white) [![Platzi](https://img.shields.io/badge/Platzi-98CA3F?logo=platzi&logoColor=white)](https://platzi.com)[![Mimo](https://img.shields.io/badge/Mimo-5C3EE8?logo=mimo&logoColor=white)](https://getmimo.com)[![Código Facilito](https://img.shields.io/badge/Código_Facilito-0056D2?logoColor=white)](https://codigofacilito.com)[![Cursa](https://img.shields.io/badge/Cursa-0078D7?logo=cursa&logoColor=white)](https://cursa.io)[![SoloLearn](https://img.shields.io/badge/SoloLearn-354A5F?logo=sololearn&logoColor=white)](https://www.sololearn.com)
 </div>
 
 <div align="center">
