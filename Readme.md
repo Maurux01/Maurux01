@@ -5,6 +5,8 @@
   
   ![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=black) ![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=white) [![Platzi](https://img.shields.io/badge/Platzi-98CA3F?logo=platzi&logoColor=white)](https://platzi.com)[![Mimo](https://img.shields.io/badge/Mimo-5C3EE8?logo=mimo&logoColor=white)](https://getmimo.com)[![Código Facilito](https://img.shields.io/badge/Código_Facilito-0056D2?logoColor=white)](https://codigofacilito.com)[![Cursa](https://img.shields.io/badge/Cursa-0078D7?logo=cursa&logoColor=white)](https://cursa.io)[![SoloLearn](https://img.shields.io/badge/SoloLearn-354A5F?logo=sololearn&logoColor=white)](https://www.sololearn.com)
 </div>
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![LazyVim](https://img.shields.io/badge/LazyVim-4A90E2?style=for-the-badge&logo=neovim&logoColor=white)
 
 <div align="center">
   
@@ -73,6 +75,8 @@
 ### 🛠️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![LazyVim](https://img.shields.io/badge/LazyVim-4A90E2?style=for-the-badge&logo=neovim&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
