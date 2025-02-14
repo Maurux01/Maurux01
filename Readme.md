@@ -43,11 +43,11 @@
 
 
 ### 🔧 **Development Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)  ![LazyVim](https://img.shields.io/badge/LazyVim-51A8B8?style=for-the-badge&logo=neovim&logoColor=white)![LunarVim](https://img.shields.io/badge/LunarVim-FF4500?style=for-the-badge&logo=neovim&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)![LazyVim](https://img.shields.io/badge/LazyVim-51A8B8?style=for-the-badge&logo=neovim&logoColor=white)![LunarVim](https://img.shields.io/badge/LunarVim-FF4500?style=for-the-badge&logo=neovim&logoColor=white)![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ### 🛠️ **DevOps & Productivity**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)   ![Zsh](https://img.shields.io/badge/Zsh-4285F4?style=for-the-badge&logo=gnu&logoColor=white)  ![Starship](https://img.shields.io/badge/Starship-FFCB2F?style=for-the-badge&logo=starship&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)   ![Zsh](https://img.shields.io/badge/Zsh-4285F4?style=for-the-badge&logo=gnu&logoColor=white) 
 
 </div>
 
