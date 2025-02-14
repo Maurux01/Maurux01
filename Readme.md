@@ -76,16 +76,6 @@
 <div align="center">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maurux01&layout=compact&theme=tokyonight&hide_border=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maurux01&theme=tokyonight&hide_border=true)  
-
-</div>
-
----
-
-## 🎧 **Recently Played on Spotify**  
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31vfyogxf5yityzuk53epew2fiui)  
-
-
 
 
 
