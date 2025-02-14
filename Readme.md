@@ -64,7 +64,7 @@
 
 
 
-## Connect with me 🤝🏻/ ☕ Support me by buying a coffee or paypal
+## Connect with me 🤝🏻
 <div style="display: flex; flex-direction: column; align-items: center; background-color: white; padding: 20px; border-radius: 10px;">
   
   <!-- Social Icons -->
@@ -90,19 +90,4 @@
     </a>
   </div>
 
-  <!-- Donation Buttons -->
-  <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; padding: 15px;">
-    <a href="https://buymeacoffee.com/maurofel36e">
-      <img src="https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee">
-    </a>
-    <a href="https://www.paypal.com/donate/?hosted_button_id=HRZTRQ4J2S3HN">
-      <img src="https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Donate with PayPal">
-    </a>
-  </div>
-
-  <!-- Support Message -->
-  <p style="color: #333; font-family: Arial, sans-serif; font-size: 14px; text-align: center; background: #f8f9fa; padding: 10px; border-radius: 5px; width: fit-content;">
-    If you like my work, you can support me with a coffee or PayPal donation 😊❤️
-  </p>
-
-</div>
+ 
