@@ -1,6 +1,8 @@
 
 ![Purple Gradient Abstract Technology Linkedin Banner](https://github.com/user-attachments/assets/06fbd9b9-9482-439f-abc9-3d0205a1cdcf)
 
+<div align="center">
+
 🌱 I’m currently learning **Machine learning, and web development**  
 
 👨‍💻 All of my projects are available at [https://maurux01.github.io/](https://maurux01.github.io/)  
@@ -19,11 +21,15 @@
 
 👷‍♂️ I’m open to collaborate in projects  
 
+</div>
 
 
 
 
 
+
+
+<div align="center">
 
 ## 🛠️ **Technologies & Tools**  
 
@@ -55,12 +61,13 @@
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
----
+
 
 ## 📊 **GitHub Stats**  
-<div align="center">
-  
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maurux01&layout=compact&theme=tokyonight&hide_border=true)  
+
+
 
 
 
@@ -88,6 +95,7 @@
     <a href="https://www.youtube.com/@maurux01" target="_blank">
       <img src="https://img.icons8.com/fluency/48/youtube-play.png" alt="YouTube" style="width: 40px; height: 40px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
     </a>
+  </div>
   </div>
 
  
