@@ -3,13 +3,10 @@
 
 <div align="center">
 
-🌱 I’m currently learning **Machine learning, and web development**  
+# 📝 About Me
+I am a Junior Software Developer passionate about web development, both frontend and backend. My current focus is on mastering modern web technologies, database management, and frameworks to build efficient and scalable applications.
 
 👨‍💻 All of my projects are available at [https://maurux01.github.io/](https://maurux01.github.io/)  
-
-📝 I regularly read articles on [https://app.daily.dev](https://app.daily.dev)  
-
-💬 Ask me about **HTML, CSS, Java, JavaScript, and more**  
 
 🎓 You can see my certificates here:  
 - [Coding certificates](https://drive.google.com/drive/folders/1Sq5hnD3T1hJmHeicdiXK0TyH4OPDFrV3)  
@@ -22,14 +19,6 @@
 👷‍♂️ I’m open to collaborate in projects  
 
 </div>
-
-
-
-
-
-
-
-<div align="center">
 
 <div align="center">
 
