@@ -21,7 +21,8 @@ I am a Junior Software Developer passionate about web development, both frontend
 </div>
 
 <div align="center">
-
+<div align="center">
+  
 ## 🚀 **Technologies & Tools**
 
 ### 📌 **Languages & Frameworks**
