@@ -1,5 +1,4 @@
 
-![Purple Gradient Abstract Technology Linkedin Banner](https://github.com/user-attachments/assets/06fbd9b9-9482-439f-abc9-3d0205a1cdcf)
 
 <div align="center">
 
