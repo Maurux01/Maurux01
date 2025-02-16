@@ -9,8 +9,8 @@ I am a Junior Software Developer passionate about web development, both frontend
 👨‍💻 All of my projects are available at [https://maurux01.github.io/](https://maurux01.github.io/)  
 
 🎓 You can see my certificates here:  
-- [Coding certificates](https://drive.google.com/drive/folders/1Sq5hnD3T1hJmHeicdiXK0TyH4OPDFrV3)  
-- [Other certificates](https://drive.google.com/drive/folders/1yW6YV73z90q1kUUwXLvQkCM7AZ8X2lTO)  
+ [Coding certificates](https://drive.google.com/drive/folders/1Sq5hnD3T1hJmHeicdiXK0TyH4OPDFrV3)  
+ [Other certificates](https://drive.google.com/drive/folders/1yW6YV73z90q1kUUwXLvQkCM7AZ8X2lTO)  
 
 📫 How to reach me: **maurofel36@gmail.com**  
 
