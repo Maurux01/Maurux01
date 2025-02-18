@@ -1,6 +1,10 @@
 
 
 <div align="center">
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=maurux01&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="maurux01's GitHub Stats" />
+  <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs?username=maurux01&theme=transparent&layout=donut&hide=css,php,ClassASP&langs_count=2&border_radius=10&show_icons=true&locale=en" alt="maurux01's Most Used Languages" />
+</div>
 
 I am a Junior Software Developer passionate about web development, both frontend and backend. My current focus is on mastering modern web technologies, database management, and frameworks to build efficient and scalable applications.
 
