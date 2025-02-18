@@ -1,4 +1,4 @@
-
+<div align = "center">
 I am a Junior Software Developer passionate about web development, both frontend and backend. My current focus is on mastering modern web technologies, database management, and frameworks to build efficient and scalable applications.
 
 👨‍💻 All of my projects are available at [https://maurux01.github.io/](https://maurux01.github.io/)  
