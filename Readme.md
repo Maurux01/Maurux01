@@ -43,7 +43,7 @@ I am a Junior Software Developer passionate about web development, both frontend
 <div align="center">
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=maurux01&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="maurux01's GitHub Stats" />
- <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurux01&layout=compact&theme=tokyonight&hide_border=true" alt="maurux01's Most Used Languages" />
+ <img width="345" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurux01&layout=compact&theme=tokyonight&hide_border=true" alt="maurux01's Most Used Languages" />
 </div>
 
   
