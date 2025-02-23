@@ -9,7 +9,7 @@ I am a Junior Software Developer passionate about web development, both frontend
 
 📫 How to reach me: **maurofel36@gmail.com**  
 
-📄 Know about my experiences: [My curriculum](https://docs.google.com/document/d/1g594GM5sALwzeZx1QBJuw5GpnXVrd5o9/edit?usp=drive_link&ouid=100573797080055147170&rtpof=true&sd=true)  
+📄 Know about my experiences: [My curriculum](https://drive.google.com/file/d/1hgmM2yAmHug3gVj844qnFg7Y39_SlkoM/view?usp=drive_link)  
 
 👷‍♂️ I’m open to collaborate in projects  
 
