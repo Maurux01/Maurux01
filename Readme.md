@@ -1,7 +1,7 @@
 <div align = "center">
 I am a Junior Software Developer passionate about web development, both frontend and backend. My current focus is on mastering modern web technologies, database management, and frameworks to build efficient and scalable applications.
 
-👨‍💻 My personal website is under custruction still [https://maurux01.github.io/](https://maurux01.github.io/)  
+👨‍💻 My personal website is [(https://maurux01.github.io/)  ](https://maurux01.github.io/personalwebpage/)
 
 🎓 You can see my certificates here:  
  [Coding certificates](https://drive.google.com/drive/folders/1Sq5hnD3T1hJmHeicdiXK0TyH4OPDFrV3)  
