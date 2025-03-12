@@ -48,22 +48,6 @@ My personal website is [(https://maurux01.github.io/)](https://maurux01.github.i
  <img width="345" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurux01&layout=compact&theme=tokyonight&hide_border=true" alt="maurux01's Most Used Languages" />
 </div>
 
----
-
-## 📜 Certifications
-- **Go Programming** - Platzi (Jan 2025)
-- **Data Science Basics** - Código Facilito (Nov 2024)
-- **Machine Learning Intro** - Código Facilito (Nov 2024)
-- **Accessibility Web** - Código Facilito (Nov 2024)
-- **Professional GitHub Course** - Código Facilito (Nov 2024)
-- **Professional Angular Course** - Código Facilito (Nov 2024)
-- **Professional Node.js Course** - Código Facilito (Nov 2024)
-- **Object-Oriented Programming** - EDteam (Nov 2024)
-- **Markdown from Scratch** - EDteam (Nov 2024)
-- **English B2** - Busuu (Jul 2024)
-- **English C1** - Busuu (Jul 2024)
-
----
 
 ## Connect with me 🤝🏻
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
