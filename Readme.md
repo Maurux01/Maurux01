@@ -1,34 +1,44 @@
-<div align = "center">
+<div align="center">
 I am a Junior Software Developer passionate about web development, both frontend and backend. My current focus is on mastering modern web technologies, database management, and frameworks to build efficient and scalable applications.
 
-My personal website is [(https://maurux01.github.io/)  ](https://maurux01.github.io/personalwebpage/)
-
-
+My personal website is [(https://maurux01.github.io/)](https://maurux01.github.io/personalwebpage/)
 </div>
 
 <div align="center">
-<div align="center">
-  
+
 ## 🚀 **Technologies & Tools**
 
 ### 📌 **Languages & Frameworks**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### 🗄️ **Databases & Cloud**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  
-
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  
 
 ### 🔧 **Development Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)![LazyVim](https://img.shields.io/badge/LazyVim-51A8B8?style=for-the-badge&logo=neovim&logoColor=white)![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![LazyVim](https://img.shields.io/badge/LazyVim-51A8B8?style=for-the-badge&logo=neovim&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ### 🛠️ **DevOps & Productivity**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)![Zsh](https://img.shields.io/badge/Zsh-4285F4?style=for-the-badge&logo=gnu&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Zsh](https://img.shields.io/badge/Zsh-4285F4?style=for-the-badge&logo=gnu&logoColor=white)  
 
-</div>
-
-
+---
 
 ## 📊 **GitHub Stats**  
 
@@ -38,37 +48,41 @@ My personal website is [(https://maurux01.github.io/)  ](https://maurux01.github
  <img width="345" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurux01&layout=compact&theme=tokyonight&hide_border=true" alt="maurux01's Most Used Languages" />
 </div>
 
-  
+---
 
+## 📜 Certifications
+- **Go Programming** - Platzi (Jan 2025)
+- **Data Science Basics** - Código Facilito (Nov 2024)
+- **Machine Learning Intro** - Código Facilito (Nov 2024)
+- **Accessibility Web** - Código Facilito (Nov 2024)
+- **Professional GitHub Course** - Código Facilito (Nov 2024)
+- **Professional Angular Course** - Código Facilito (Nov 2024)
+- **Professional Node.js Course** - Código Facilito (Nov 2024)
+- **Object-Oriented Programming** - EDteam (Nov 2024)
+- **Markdown from Scratch** - EDteam (Nov 2024)
+- **English B2** - Busuu (Jul 2024)
+- **English C1** - Busuu (Jul 2024)
 
-
-
+---
 
 ## Connect with me 🤝🏻
-<div style="display: flex; flex-direction: column; align-items: center; background-color: white; padding: 20px; border-radius: 10px;">
-  
-  <!-- Social Icons -->
-  <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; padding-bottom: 15px;">
-    <a href="https://stackoverflow.com/users/28065944/mauro-infante" target="_blank">
-      <img src="https://img.icons8.com/fluency/48/stackoverflow.png" alt="Stack Overflow" style="width: 40px; height: 40px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-    </a>
-    <a href="https://linkedin.com/in/infmauro" target="_blank">
-      <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" style="width: 40px; height: 40px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-    </a>
-    <a href="https://twitter.com/maufel2" target="_blank">
-      <img src="https://img.icons8.com/fluency/48/twitterx.png" alt="Twitter" style="width: 40px; height: 40px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-    </a>
-    <a href="https://www.reddit.com/user/maxinff/" target="_blank">
-      <img src="https://img.icons8.com/fluency/48/reddit.png" alt="Reddit" style="width: 40px; height: 40px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-    </a>
-    <a href="https://gitlab.com/Maurux01" target="_blank">
-<img src="https://img.icons8.com/color/48/gitlab.png" alt="GitLab" style="width: 40px; height: 40px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-
-   </a>
-    <a href="https://www.youtube.com/@maurux01" target="_blank">
-      <img src="https://img.icons8.com/fluency/48/youtube-play.png" alt="YouTube" style="width: 40px; height: 40px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-    </a>
-  </div>
-  </div>
-
- 
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+  <a href="https://stackoverflow.com/users/28065944/mauro-infante" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/stackoverflow.png" alt="Stack Overflow">
+  </a>
+  <a href="https://linkedin.com/in/infmauro" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/maufel2" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/twitterx.png" alt="Twitter">
+  </a>
+  <a href="https://www.reddit.com/user/maxinff/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/reddit.png" alt="Reddit">
+  </a>
+  <a href="https://gitlab.com/Maurux01" target="_blank">
+    <img src="https://img.icons8.com/color/48/gitlab.png" alt="GitLab">
+  </a>
+  <a href="https://www.youtube.com/@maurux01" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/youtube-play.png" alt="YouTube">
+  </a>
+</div>
