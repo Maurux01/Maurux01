@@ -43,7 +43,7 @@ You can contact me here 📫 maurux01@gmail.com
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![LazyVim](https://img.shields.io/badge/LazyVim-51A8B8?style=for-the-badge&logo=neovim&logoColor=white)
-![Spacemacs](https://img.shields.io/badge/Spacemacs-9266CC?style=for-the-badge&logo=gnu-emacs&logoColor=white)
+![Doom Emacs](https://img.shields.io/badge/Doom%20Emacs-a335ee?style=for-the-badge&logo=gnu-emacs&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
