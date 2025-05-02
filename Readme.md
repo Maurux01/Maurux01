@@ -86,6 +86,11 @@ You can contact me here 📫 maurux01@gmail.com
  <img width="345" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurux01&layout=compact&theme=tokyonight&hide_border=true" alt="maurux01's Most Used Languages" />
 </div>
 
+## Trophy 🏆
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Maurux01&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 ## Connect with me 🤝🏻
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
