@@ -31,8 +31,8 @@ You can contact me here 📫 maurux01@gmail.com
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" /> Vue.js</td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="40" /> Svelte</td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" /> Django</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" /> Flask</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" /> Markdown</td>
+      <td><img src="https://img.icons8.com/?size=100&id=ewGOClUtmFX4&format=png&color=000000" width="40" /> Flask</td>
+     <td><img src="https://img.icons8.com/ios-filled/50/ffffff/markdown.png" width="40" /> Markdown</td>
     </tr>
   </table>
 
@@ -43,7 +43,7 @@ You can contact me here 📫 maurux01@gmail.com
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" /> PostgreSQL</td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" /> MongoDB</td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" /> Google Cloud</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" /> AWS</td>
+     <td><img src="https://img.icons8.com/ios-filled/50/ffffff/amazon-web-services.png" width="40" /> AWS</td>
     </tr>
     <tr>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" /> Azure</td>
@@ -57,7 +57,7 @@ You can contact me here 📫 maurux01@gmail.com
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" /> VS Code</td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="40" /> Neovim</td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/emacs/emacs-original.svg" width="40" /> Emacs</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" /> GitHub Actions</td>
+      <td><img src="https://img.icons8.com/ios-glyphs/50/ffffff/github.png" width="40" /> GitHub Actions</td>
     </tr>
     <tr>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" /> Jenkins</td>
