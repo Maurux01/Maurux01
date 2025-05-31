@@ -43,7 +43,6 @@ You can contact me here 📫 maurux01@gmail.com
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" /> PostgreSQL</td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" /> MongoDB</td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" /> Google Cloud</td>
-     <td><img src="https://img.icons8.com/ios-filled/50/ffffff/amazon-web-services.png" width="40" /> AWS</td>
     </tr>
     <tr>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" /> Azure</td>
