@@ -10,7 +10,6 @@ You can contact me here 📫 maurux01@gmail.com
 
 <div align="center">
 
-  <h2>🚀 <strong>Technologies & Tools</strong></h2>
 
   <h3>📌 <strong>Languages & Frameworks</strong></h3>
   <table>
