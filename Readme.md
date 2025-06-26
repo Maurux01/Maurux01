@@ -58,7 +58,6 @@ You can contact me here 📫 maurux01@gmail.com
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /> Git</td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" /> VS Code</td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="40" /> Neovim</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/emacs/emacs-original.svg" width="40" /> Emacs</td>
       <td><img src="https://img.icons8.com/ios-glyphs/50/ffffff/github.png" width="40" /> GitHub Actions</td>
     </tr>
     <tr>
