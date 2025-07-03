@@ -16,68 +16,54 @@ You can contact me here 📫 maurux01@gmail.com
 <div align="center">
 
 
-  <h3>📌 <strong>Languages & Frameworks</strong></h3>
-  <table>
-    <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /> HTML5</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" /> CSS3</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /> JavaScript</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" /> TypeScript</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /> Python</td>
-    </tr>
-    <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /> Java</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" /> Go</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" /> Node.js</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" /> Angular</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /> React</td>
-    </tr>
-    <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" /> Vue.js</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="40" /> Svelte</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" /> Django</td>
-      <td><img src="https://img.icons8.com/?size=100&id=ewGOClUtmFX4&format=png&color=000000" width="40" /> Flask</td>
-     <td><img src="https://img.icons8.com/ios-filled/50/ffffff/markdown.png" width="40" /> Markdown</td>
-    </tr>
-  </table>
+  <h3 align="center">📌 <strong>Languages & Frameworks</strong></h3>
+  <p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" alt="Go"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" alt="Angular"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" alt="Vue.js"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="40" alt="Svelte"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django"/>
+    <!-- Agrega más iconos aquí si lo deseas -->
+  </p>
 
-  <h3>🗄️ <strong>Databases & Cloud</strong></h3>
-  <table>
-    <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" /> MySQL</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" /> PostgreSQL</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" /> MongoDB</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" /> Google Cloud</td>
-    </tr>
-    <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" /> Azure</td>
-    </tr>
-  </table>
+  <h3 align="center">🗄️ <strong>Databases & Cloud</strong></h3>
+  <p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" alt="Google Cloud"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Azure"/>
+    <!-- Agrega más iconos aquí si lo deseas -->
+  </p>
 
-  <h3>🔧 <strong>Development Tools</strong></h3>
-  <table>
-    <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /> Git</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" /> VS Code</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="40" /> Neovim</td>
-      <td><img src="https://img.icons8.com/ios-glyphs/50/ffffff/github.png" width="40" /> GitHub Actions</td>
-    </tr>
-    <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" /> Jenkins</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" /> npm</td>
-    </tr>
-  </table>
+  <h3 align="center">🔧 <strong>Development Tools</strong></h3>
+  <p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="40" alt="Neovim"/>
+    <img src="https://img.icons8.com/ios-glyphs/50/ffffff/github.png" width="40" alt="GitHub Actions"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" alt="Jenkins"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" alt="npm"/>
+    <!-- Agrega más iconos aquí si lo deseas -->
+  </p>
 
-  <h3>🛠️ <strong>DevOps & Productivity</strong></h3>
-  <table>
-    <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" /> Docker</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" /> Zsh</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40" /> Slack</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" /> Trello</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40" /> Notion</td>
-    </tr>
-  </table>
+  <h3 align="center">🛠️ <strong>DevOps & Productivity</strong></h3>
+  <p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Zsh"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40" alt="Slack"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" alt="Trello"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40" alt="Notion"/>
+    <!-- Agrega más iconos aquí si lo deseas -->
+  </p>
 
 </div>
 
@@ -96,23 +82,29 @@ You can contact me here 📫 maurux01@gmail.com
 
 
 ## Connect with me 🤝🏻
-<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+
+<p align="center">
   <a href="https://stackoverflow.com/users/28065944/mauro-infante" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/stackoverflow.png" alt="Stack Overflow">
+    <img src="https://img.icons8.com/fluency/48/stackoverflow.png" width="40" title="Stack Overflow" alt="Stack Overflow"/>
   </a>
+  &nbsp;
   <a href="https://linkedin.com/in/infmauro" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="40" title="LinkedIn" alt="LinkedIn"/>
   </a>
+  &nbsp;
   <a href="https://twitter.com/maufel2" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/twitterx.png" alt="Twitter">
+    <img src="https://img.icons8.com/fluency/48/twitterx.png" width="40" title="Twitter" alt="Twitter"/>
   </a>
+  &nbsp;
   <a href="https://www.reddit.com/user/maxinff/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/reddit.png" alt="Reddit">
+    <img src="https://img.icons8.com/fluency/48/reddit.png" width="40" title="Reddit" alt="Reddit"/>
   </a>
+  &nbsp;
   <a href="https://gitlab.com/Maurux01" target="_blank">
-    <img src="https://img.icons8.com/color/48/gitlab.png" alt="GitLab">
+    <img src="https://img.icons8.com/color/48/gitlab.png" width="40" title="GitLab" alt="GitLab"/>
   </a>
+  &nbsp;
   <a href="https://www.youtube.com/@maurux01" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/youtube-play.png" alt="YouTube">
+    <img src="https://img.icons8.com/fluency/48/youtube-play.png" width="40" title="YouTube" alt="YouTube"/>
   </a>
-</div>
+</p>
