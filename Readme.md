@@ -108,3 +108,9 @@ You can contact me here 📫 maurux01@gmail.com
     <img src="https://img.icons8.com/fluency/48/youtube-play.png" width="40" title="YouTube" alt="YouTube"/>
   </a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=maurux01&style=flat-square&color=blue" alt="Profile views"/>
+</p>
+
+
