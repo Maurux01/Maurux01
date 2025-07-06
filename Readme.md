@@ -3,7 +3,7 @@
   
 I am a Junior Software Developer passionate about web development, both frontend and backend. My current focus is on mastering modern web technologies, database management, and frameworks to build efficient and scalable applications.
 
-<a href="https://app.daily.dev/maurux01"><img src="https://api.daily.dev/devcards/v2/jzHzLksQ1DanWUDvEj7qh.png?type=wide&r=xto" width="652" alt="Mauro Infante's Dev Card"/></a>
+
 
 
 You can find more info about me [here](https://maurux01.github.io/personalwebpage/).
