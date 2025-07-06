@@ -11,6 +11,7 @@ You can find more info about me [here](https://maurux01.github.io/personalwebpag
 
 You can contact me here 📫 maurux01@gmail.com
 
+credits for profile pic to @apohe_art
 
 
 <div align="center">
