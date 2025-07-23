@@ -7,6 +7,7 @@ I am a Junior Software Developer passionate about web development, both frontend
 
 - Credits for profile pic to @apohe_art
 
+
 <div align="center">
 
 
