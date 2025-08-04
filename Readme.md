@@ -67,11 +67,11 @@ I am a Junior Software Developer passionate about web development, both frontend
 
 ## 📊 **GitHub Stats**  
 
-<div align="center">
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=maurux01&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="maurux01's GitHub Stats" />
- <img width="345" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurux01&layout=compact&theme=tokyonight&hide_border=true" alt="maurux01's Most Used Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurux01&theme=onedark&show_icons=true&hide_border=false&count_private=true" width="32%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maurux01&theme=onedark&hide_border=false" width="32%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurux01&theme=onedark&layout=compact&hide_border=false" width="32%">
+</p>
 
 ## Trophy 🏆
 
