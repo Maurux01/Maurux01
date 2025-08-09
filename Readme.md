@@ -25,6 +25,7 @@
   </table>
 </div>
 
+
  You can find more info about me [here](https://maurux01.github.io/personalwebpage) // You can contact me [here]( maurux01@gmail.com)📫
 
 Credits for profile pic to @apohe_art (on pinterest)
