@@ -33,14 +33,6 @@ Credits for profile pic to @apohe_art (on pinterest)
 
 <div align="center">
 
-### Artificial Intelligence 🤖
-![Google Gemini](https://skillicons.dev/icons?i=google)
-![ChatGPT](https://skillicons.dev/icons?i=chatgpt)
-
-## Blog 🗒️
-![daily.dev](https://skillicons.dev/icons?i=dailydev)
-![Blogger](https://skillicons.dev/icons?i=blogger)
-
 ## Distros I Use 🐧
 ![Kali](https://skillicons.dev/icons?i=kali)
 ![Arch Linux](https://skillicons.dev/icons?i=arch)
@@ -48,8 +40,6 @@ Credits for profile pic to @apohe_art (on pinterest)
 ## Tools 🛠️
 ![Brave](https://skillicons.dev/icons?i=brave)
 ![Neovim](https://skillicons.dev/icons?i=neovim)
-![Audacity](https://skillicons.dev/icons?i=audacity)
-![Slack](https://skillicons.dev/icons?i=slack)
 ![Discord](https://skillicons.dev/icons?i=discord)
 ![PNPM](https://skillicons.dev/icons?i=pnpm)
 ![NPM](https://skillicons.dev/icons?i=npm)
@@ -60,11 +50,9 @@ Credits for profile pic to @apohe_art (on pinterest)
 ![C](https://skillicons.dev/icons?i=c)
 ![C#](https://skillicons.dev/icons?i=cs)
 ![C++](https://skillicons.dev/icons?i=cpp)
-![AssemblyScript](https://skillicons.dev/icons?i=assembly)
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![Java](https://skillicons.dev/icons?i=java)
-![Nix](https://skillicons.dev/icons?i=nixos)
 ![Markdown](https://skillicons.dev/icons?i=markdown)
 ![Lua](https://skillicons.dev/icons?i=lua)
 ![PHP](https://skillicons.dev/icons?i=php)
@@ -73,7 +61,6 @@ Credits for profile pic to @apohe_art (on pinterest)
 ![Bash Script](https://skillicons.dev/icons?i=bash)
 ![TypeScript](https://skillicons.dev/icons?i=typescript)
 ![Zig](https://skillicons.dev/icons?i=zig)
-![YAML](https://skillicons.dev/icons?i=yaml)
 
 ## Front end / Back end 🆚
 ![React](https://skillicons.dev/icons?i=react)
@@ -83,11 +70,14 @@ Credits for profile pic to @apohe_art (on pinterest)
 ![Flask](https://skillicons.dev/icons?i=flask)
 ![Django](https://skillicons.dev/icons?i=django)
 
+
 ## 📊 **GitHub Stats**  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurux01&theme=onedark&show_icons=true&hide_border=false&count_private=true" width="32%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maurux01&theme=onedark&hide_border=false" width="32%">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurux01&theme=onedark&show_icons=true&hide_border=false&count_private=true" width="38%">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maurux01&theme=onedark&hide_border=false" width="38%">
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurux01&theme=onedark&layout=compact&hide_border=false" width="32%">
 
 
