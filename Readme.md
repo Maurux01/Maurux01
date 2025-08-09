@@ -92,7 +92,11 @@ I combine analytical thinking and creativity to solve problems, while exploring 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maurux01&theme=onedark&hide_border=false" width="32%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurux01&theme=onedark&layout=compact&hide_border=false" width="32%">
 
-  ![Lenguajes de programación](https://api.githubtrends.io/user/svg/Maurux01/langs?time_range=one_year&theme=synthwaves)
+
+![Perfil de GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maurux01&theme=gruvbox)
+
+
+
 </p>
 
 
