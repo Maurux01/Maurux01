@@ -34,8 +34,6 @@ Credits for profile pic to @apohe_art (on pinterest)
 
 <div align="center">
 
-## Currently on use 👨‍💻
-
 ### Artifical inteligent 🤖
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
