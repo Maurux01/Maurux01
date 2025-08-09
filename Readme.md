@@ -1,69 +1,49 @@
 <div align="center">
   
-I am a Junior Software Developer passionate about web development, both frontend and backend. My current focus is on mastering modern web technologies, database management, and frameworks to build efficient and scalable applications.
+## About me 😺
+
+Industrial engineer and junior developer passionate about quality, process improvement, and open source technology. My journey began in manufacturing, continued in customer service to strengthen my soft skills and English, and now moves forward in the world of software, becasue i always wanted to be software engineer but i couldnt, however its never too late to do what you want to do.
+
+
+
+
+I combine analytical thinking and creativity to solve problems, while exploring web development, cybersecurity, databases, and technologies to build efficient and scalable applications. Outside of coding, I enjoy making music, digital art, and learning nonstop.
+
 
 
 - You can find more info about me [here](https://maurux01.github.io/personalwebpage/).
 
 
-- You can contact me here 📫 maurux01@gmail.com
+- You can contact me [here]( maurux01@gmail.com)📫
 
-- Credits for profile pic to @apohe_art
+- Credits for profile pic to @apohe_art (on pinterest)
 
+
+##
 
 <div align="center">
 
+## Currently on use 👨‍💻
 
-  <h3 align="center">📌 <strong>Languages & Frameworks</strong></h3>
-  <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" alt="Go"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" alt="Angular"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" alt="Vue.js"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="40" alt="Svelte"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django"/>
-    <!-- Agrega más iconos aquí si lo deseas -->
-  </p>
+### Artifical inteligent 🤖
+![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
-  <h3 align="center">🗄️ <strong>Databases & Cloud</strong></h3>
-  <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" alt="Google Cloud"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Azure"/>
-    <!-- Agrega más iconos aquí si lo deseas -->
-  </p>
+## Blog 🗒️
 
-  <h3 align="center">🔧 <strong>Development Tools</strong></h3>
-  <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="40" alt="Neovim"/>
-    <img src="https://img.icons8.com/ios-glyphs/50/ffffff/github.png" width="40" alt="GitHub Actions"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" alt="Jenkins"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" alt="npm"/>
-    <!-- Agrega más iconos aquí si lo deseas -->
-  </p>
+![daily.dev](https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=daily.dev&logoColor=white)![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
 
-  <h3 align="center">🛠️ <strong>DevOps & Productivity</strong></h3>
-  <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Zsh"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40" alt="Slack"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" alt="Trello"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40" alt="Notion"/>
-    <!-- Agrega más iconos aquí si lo deseas -->
-  </p>
+## Distros i use 🐧
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
+## Tools 🛠️
+![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 </div>
+
+## Leanguages 💻
+
+	
+
 
 ## 📊 **GitHub Stats**  
 
@@ -71,7 +51,13 @@ I am a Junior Software Developer passionate about web development, both frontend
   <img src="https://github-readme-stats.vercel.app/api?username=maurux01&theme=onedark&show_icons=true&hide_border=false&count_private=true" width="32%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maurux01&theme=onedark&hide_border=false" width="32%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurux01&theme=onedark&layout=compact&hide_border=false" width="32%">
+
+  ![Lenguajes de programación](https://api.githubtrends.io/user/svg/Maurux01/langs?time_range=one_year&theme=synthwaves)
 </p>
+
+
+
+
 
 ## Trophy 🏆
 
