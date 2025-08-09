@@ -1,22 +1,33 @@
 <div align="center">
   
-## About me 😺
+## About me 🙍‍♂️
 
-Industrial engineer and junior developer passionate about quality, process improvement, and open source technology. My journey began in manufacturing, continued in customer service to strengthen my soft skills and English, and now moves forward in the world of software, becasue i always wanted to be software engineer but i couldnt, however its never too late to do what you want to do.
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <p>
+          Industrial engineer and junior developer passionate about quality, process improvement, and open source technology. My journey began in manufacturing, continued in customer service to strengthen my soft skills and English, and now moves forward in the world of software, because I always wanted to be a software engineer but couldn't. However, it's never too late to do what you want to do.
+        </p>
+        <p>
+          I combine analytical thinking and creativity to solve problems, while exploring web development, cybersecurity, databases, and technologies to build efficient and scalable applications. Outside of coding, I enjoy making music, digital art, and learning nonstop.
+        </p>
+      </td>
+      <td width="50%" align="center">
+        <img 
+          src="https://github.com/user-attachments/assets/f0aaef58-a056-4539-997c-a985382fc21d" 
+          alt="jujutsu-kaisen" 
+          width="300" 
+          style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);"
+        />
+      </td>
+    </tr>
+  </table>
+</div>
 
+ You can find more info about me [here](https://maurux01.github.io/personalwebpage) // You can contact me [here]( maurux01@gmail.com)📫
 
-
-
-I combine analytical thinking and creativity to solve problems, while exploring web development, cybersecurity, databases, and technologies to build efficient and scalable applications. Outside of coding, I enjoy making music, digital art, and learning nonstop.
-
-
-
-- You can find more info about me [here](https://maurux01.github.io/personalwebpage/).
-
-
-- You can contact me [here]( maurux01@gmail.com)📫
-
-- Credits for profile pic to @apohe_art (on pinterest)
+Credits for profile pic to @apohe_art (on pinterest)
 
 
 ##
