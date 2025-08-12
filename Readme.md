@@ -25,17 +25,12 @@
 </div>
 
 
-
  You can find more info about me [here](https://maurux01.github.io/personalwebpage) // You can contact me [here]( maurux01@gmail.com)📫
-
-Credits for profile pic to @apohe_art (on pinterest)
 
 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,arch,linux,vscode,git,github" height="48"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="48"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" height="48"/>
 </p>
 
 
