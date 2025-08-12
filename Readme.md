@@ -31,46 +31,12 @@
 Credits for profile pic to @apohe_art (on pinterest)
 
 
-##
 
-<div align="center">
-
-## Distros I Use 🐧
-![Kali](https://skillicons.dev/icons?i=kali)
-![Arch Linux](https://skillicons.dev/icons?i=arch)
-
-## Tools 🛠️
-![Brave](https://skillicons.dev/icons?i=brave)
-![Neovim](https://skillicons.dev/icons?i=neovim)
-![Discord](https://skillicons.dev/icons?i=discord)
-![PNPM](https://skillicons.dev/icons?i=pnpm)
-![NPM](https://skillicons.dev/icons?i=npm)
-
-## Languages 💻
-![Go](https://skillicons.dev/icons?i=go)
-![Elixir](https://skillicons.dev/icons?i=elixir)
-![C](https://skillicons.dev/icons?i=c)
-![C#](https://skillicons.dev/icons?i=cs)
-![C++](https://skillicons.dev/icons?i=cpp)
-![HTML5](https://skillicons.dev/icons?i=html)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![Java](https://skillicons.dev/icons?i=java)
-![Markdown](https://skillicons.dev/icons?i=markdown)
-![Lua](https://skillicons.dev/icons?i=lua)
-![PHP](https://skillicons.dev/icons?i=php)
-![Python](https://skillicons.dev/icons?i=python)
-![Rust](https://skillicons.dev/icons?i=rust)
-![Bash Script](https://skillicons.dev/icons?i=bash)
-![TypeScript](https://skillicons.dev/icons?i=typescript)
-![Zig](https://skillicons.dev/icons?i=zig)
-
-## Front end / Back end 🆚
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![Astro](https://skillicons.dev/icons?i=astro)
-![NestJS](https://skillicons.dev/icons?i=nestjs)
-![Flask](https://skillicons.dev/icons?i=flask)
-![Django](https://skillicons.dev/icons?i=django)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,arch,linux,vscode,git,github" height="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" height="48"/>
+</p>
 
 
 ## 📊 **GitHub Stats**  
