@@ -30,7 +30,7 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,arch,linux,vscode,git,github" height="48"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,arch,kali,linux,vscode,git,github,discord" height="48"/>
 </p>
 
 
