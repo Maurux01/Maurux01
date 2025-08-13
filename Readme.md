@@ -28,7 +28,7 @@
 ## My stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,svelte,next,nest,flask,laravel,spring,html,css,js,ts,go,elixir,lua,bash,php,python,perl,r,c,cpp,java,cs,dotnet,julia,php,rust,zig,nix,mysql,mongodb,sqlite,postgresql,powershell,markdown,linux,neovim,git,github,gitlab,npm,pnpm,azure,aws," height="100"/>
+  <img src="https://skillicons.dev/icons?i=react,angular,svelte,next,nest,flask,laravel,spring,html,css,js,ts,go,elixir,lua,bash,php,python,perl,r,c,cpp,java,cs,dotnet,julia,php,rust,zig,nix,mysql,mongodb,sqlite,postgresql,powershell,markdown,linux,neovim,git,github,gitlab,npm,pnpm,azure,aws," height="1000"/>
 </p>
 
 
