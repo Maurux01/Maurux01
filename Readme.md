@@ -25,13 +25,13 @@
 
  You can find more info about me [here](https://maurux01.github.io/personalwebpage) // You can contact me [here]( maurux01@gmail.com)📫
 
-## My stack
+###
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,angular,svelte,next,nest,flask,laravel,spring,html,css,js,ts,go,elixir,lua,bash,php,python,perl,r,c,cpp,java,cs,dotnet,julia,php,rust,zig,nix,mysql,mongodb,sqlite,postgresql,powershell,markdown,linux,neovim,git,github,gitlab,npm,pnpm,azure,aws," height="1000"/>
 </p>
 
-## Stats 
+###  
  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurux01&theme=nightowl&show_icons=true&hide_border=true&layout=compact" width="265" />
   <img src="https://github-readme-stats.vercel.app/api?username=maurux01&theme=nightowl&show_icons=true&hide_border=true&count_private=true" width="350" />
@@ -41,7 +41,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Maurux01&theme=dracula&column=9&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 
+### 
 
 <p align="center">
   <a href="https://stackoverflow.com/users/28065944/mauro-infante" target="_blank">
