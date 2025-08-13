@@ -39,7 +39,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=maurux01&theme=nightowl&show_icons=true&hide_border=true&count_private=true" width="350" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maurux01&theme=nightowl&hide_border=true" width="370" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurux01&theme=nightowl&show_icons=true&hide_border=true&layout=compact" width="310" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maurux01&theme=nightowl" width="600" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maurux01&theme=nightowl" width="300" />
 </p>
 
 
