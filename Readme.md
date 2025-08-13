@@ -1,5 +1,6 @@
 
 
+
 <div align="center">
 <div align="center">
   <table width="100%">
@@ -37,14 +38,11 @@
 ## 📊 **GitHub Stats**  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurux01&theme=onedark&show_icons=true&hide_border=false&count_private=true" width="38%">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maurux01&theme=onedark&hide_border=false" width="38%">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurux01&theme=onedark&layout=compact&hide_border=false" width="32%">
+![maurux01's Stats](https://github-readme-stats.vercel.app/api?username=maurux01&theme=nightowl&show_icons=true&hide_border=true&count_private=true) ![maurux01's Streak](https://github-readme-streak-stats.herokuapp.com/?user=maurux01&theme=nightowl&hide_border=true)
 
+![maurux01's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maurux01&theme=nightowl&show_icons=true&hide_border=true&layout=compact) ![Perfil de GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maurux01&theme=nightowl)
 
-![Perfil de GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maurux01&theme=gruvbox)
 
 
 
@@ -56,7 +54,8 @@
 
 ## Trophy 🏆
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Maurux01&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Maurux01&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
