@@ -28,8 +28,10 @@
 ## My stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,nest,next,flask,html,css,js,go,elixir,lua,bash,python,perl,r,c,cpp,arch,kali,linux,vscode,git,github,discord," height="60"/>
+  <img src="https://skillicons.dev/icons?i=react,angular,svelte,next,nest,flask,html,css,js,ts,go,elixir,lua,bash,python,perl,r,c,cpp,java,cs,dotnet,julia,php,rust,zig,nix,powershell,markdown,linux,vscode,git,github" height="100"/>
 </p>
+
+
 
 
 ## 📊 **GitHub Stats**  
