@@ -28,7 +28,7 @@
 ###
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,svelte,next,nest,flask,laravel,spring,html,css,js,ts,go,elixir,lua,bash,php,python,perl,r,c,cpp,cs,java,dotnet,julia,php,rust,zig,nix,mysql,mongodb,sqlite,postgresql,powershell,markdown,linux,neovim,git,github,gitlab,npm,pnpm,azure,aws," height="1000"/>
+  <img src="https://skillicons.dev/icons?i=dotnet,react,angular,svelte,next,nest,flask,laravel,spring,html,css,js,ts,go,elixir,lua,bash,php,python,perl,r,c,cpp,cs,java,julia,php,rust,zig,nix,mysql,mongodb,sqlite,postgresql,powershell,markdown,linux,neovim,git,github,gitlab,npm,pnpm,azure,aws," height="1000"/>
 </p>
 
 ###  
