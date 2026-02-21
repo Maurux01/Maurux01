@@ -32,14 +32,18 @@
 </p>
 
 ###  
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurux01&theme=nightowl&show_icons=true&hide_border=true&layout=compact" width="265" />
-  <img src="https://github-readme-stats.vercel.app/api?username=maurux01&theme=nightowl&show_icons=true&hide_border=true&count_private=true" width="350" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maurux01&theme=nightowl&hide_border=true" width="370" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurux01&theme=nightowl&show_icons=true&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurux01&theme=nightowl&layout=compact&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maurux01&theme=nightowl&hide_border=true" height="165"/>
+</p>
 
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Maurux01&theme=dracula&column=9&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Maurux01&theme=dracula&column=9&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy) 
 
 ### 
 
