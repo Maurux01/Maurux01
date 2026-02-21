@@ -38,9 +38,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maurux01&theme=nightowl&hide_border=true" height="165"/>
-</p>
-
+  <img src="https://streak-stats.demolab.com?user=maurux01&theme=nightowl&hide_border=true" height="165"/>
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Maurux01&theme=dracula&column=9&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy) 
