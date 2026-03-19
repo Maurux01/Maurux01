@@ -23,7 +23,7 @@
 </div>
 
 
- You can find more info about me [here](https://maurux01.github.io/personalwebpage) // You can contact me [here](maurux01@gmail.com)📫
+ You can find more info about me [here](https://maurux01.github.io/personalwebpage) // You can contact me maurux01@gmail.com📫
 
 ###
 
