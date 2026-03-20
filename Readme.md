@@ -22,8 +22,9 @@
   </table>
 </div>
 
-
- You can find more info about me [here](https://maurux01.github.io/personalwebpage) // You can contact me maurux01@gmail.com📫
+<p align="center">
+ You can find more info about me [here](https://maurux01.github.io/personalwebpage)
+</p>
 
 ###
 
