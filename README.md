@@ -4,10 +4,10 @@
     <tr>
       <td width="50%" valign="top">
         <p>
-          Industrial engineer and junior developer passionate about quality, process improvement, and open source technology. My journey began in manufacturing, continued in customer service to strengthen my soft skills and English, and now moves forward in the world of software, because I always wanted to be a software engineer but couldn't. However, it's never too late to do what you want to do.
+          Industrial engineer and junior developer passionate about quality, process improvement, and open source technology. My journey began in manufacturing, continued in customer service to strengthen my soft skills and English, and now moves forward in the world of software, because I always wanted to be a software engineer but couldn't. However, it's never too late to do what you really always wanted to do, just dive in bud!
         </p>
         <p>
-          I combine analytical thinking and creativity to solve problems, while exploring web development, cybersecurity, databases, and technologies to build efficient and scalable applications. Outside of coding, I enjoy making music, digital art, and learning nonstop.
+          I combine analytical thinking and creativity to solve problems, while exploring web development, cybersecurity, databases, and technologies to build efficient and scalable applications. Outside of coding, I enjoy making music, digital art,3d modeling, and learning nonstop.
         </p>
       </td>
       <td width="50%" align="center">
@@ -29,7 +29,7 @@
 ###
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,react,angular,svelte,next,nest,flask,laravel,spring,html,css,js,ts,go,elixir,lua,bash,php,python,perl,r,c,cpp,cs,java,julia,php,rust,zig,nix,mysql,mongodb,sqlite,postgresql,powershell,markdown,linux,neovim,git,github,gitlab,npm,pnpm,azure,aws," height="1000"/>
+  <img src="https://skillicons.dev/icons?i=dotnet,react,angular,svelte,next,nest,flask,spring,html,css,js,ts,go,elixir,lua,bash,python,perl,r,c,cpp,cs,java,zig,mysql,mongodb,sqlite,postgresql,powershell,markdown,linux,neovim,git,github,gitlab,npm,pnpm,azure,aws," height="1000"/>
 </p>
 
 ###  
@@ -75,5 +75,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=maurux01&style=flat-square&color=blue" alt="Profile views"/>
 </p>
-
 
