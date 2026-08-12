@@ -34,15 +34,22 @@
 
 ###  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurux01&theme=nightowl&show_icons=true&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurux01&theme=nightowl&layout=compact&hide_border=true" height="165"/>
+
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=maurux01&theme=nightowl&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maurux01&theme=tokyonight&hide_border=true" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Maurux01&theme=dracula&column=9&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy) 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maurux01&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/maurux01?label=Followers&style=for-the-badge&color=7aa2f7"/>
+  <img src="https://img.shields.io/github/stars/maurux01?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=bb9af7&label=Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=maurux01&style=for-the-badge&color=7dcfff&label=PROFILE+VIEWS"/>
+</p>
 
 ### 
 
