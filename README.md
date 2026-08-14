@@ -29,7 +29,7 @@
 ###
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,react,angular,svelte,next,nest,flask,spring,html,css,js,ts,go,elixir,lua,bash,python,perl,r,c,cpp,cs,java,zig,mysql,mongodb,sqlite,postgresql,powershell,markdown,linux,neovim,git,github,gitlab,npm,pnpm,azure,aws," height="1000"/>
+  <img src="https://skillicons.dev/icons?i=dotnet,react,angular,svelte,next,nest,flask,spring,html,css,js,ts,go,lua,bash,python,perl,r,c,cpp,cs,java,mysql,mongodb,sqlite,postgresql,powershell,markdown,linux,neovim,git,github,gitlab,npm,pnpm,azure,aws," height="1000"/>
 </p>
 
 ###  
