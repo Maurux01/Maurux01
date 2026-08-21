@@ -11,12 +11,7 @@
         </p>
       </td>
       <td width="50%" align="center">
-        <img 
-          src="https://github.com/user-attachments/assets/f0aaef58-a056-4539-997c-a985382fc21d" 
-          alt="jujutsu-kaisen" 
-          width="300" 
-          style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);"
-        />
+<img src="https://media.tenor.com/On7kvXhzml4AAAAj/dragon-ball-gt-super-17.gif" alt="Dragon Ball GT Super 17" style="max-width: 100%; height: auto; border-radius: 8px;">
       </td>
     </tr>
   </table>
