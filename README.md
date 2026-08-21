@@ -9,7 +9,7 @@
         <p>🌐 You can find more info about me ➡️ <a href="https://maurux01.github.io/personalwebpage/" target="_blank" style="color: #7aa2f7; text-decoration: none; font-weight: bold;">here</a>.</p>
       </td>
       <td width="15%" align="center" valign="middle">
-        <img src="https://i.pinimg.com/736x/12/b9/95/12b995e176dec2f1b419719da0da44af.jpg" 
+        <img src="https://github.com/user-attachments/assets/ff5d96cc-5412-4f16-880c-5a086e4424ba" 
              alt="Mauro Profile" 
              style="max-width: 250px; border-radius: 50%; border: 4px solid #7aa2f7; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
       </td>
