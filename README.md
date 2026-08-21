@@ -21,32 +21,20 @@
  You can find more info about me [here](https://maurux01.github.io/personalwebpage)
 </p>
 
-###
+
+### Stack
 
 <p align="center">
+  
   <img src="https://skillicons.dev/icons?i=dotnet,angular,flask,spring,html,css,js,ts,go,lua,bash,python,perl,r,c,cpp,cs,java,mysql,mongodb,sqlite,postgresql,powershell,markdown,linux,neovim,git,github,gitlab,npm,pnpm,azure,aws," height="1000"/>
 </p>
 
-###  
-<p align="center">
-
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maurux01&theme=tokyonight&hide_border=true" />
-</p>
-
+### Contributions
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maurux01&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/maurux01?label=Followers&style=for-the-badge&color=7aa2f7"/>
-  <img src="https://img.shields.io/github/stars/maurux01?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=bb9af7&label=Stars"/>
-  <img src="https://komarev.com/ghpvc/?username=maurux01&style=for-the-badge&color=7dcfff&label=PROFILE+VIEWS"/>
-</p>
-
-### 
+### Follow me
 
 <p align="center">
   <a href="https://stackoverflow.com/users/28065944/mauro-infante" target="_blank">
@@ -73,8 +61,8 @@
     <img src="https://img.icons8.com/fluency/48/youtube-play.png" width="40" title="YouTube" alt="YouTube"/>
   </a>
 </p>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maurux01&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/maurux01?label=Followers&style=for-the-badge&color=7aa2f7"/>
+  <img src="https://img.shields.io/github/stars/maurux01?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=bb9af7&label=Stars"/>
 </p>
 
