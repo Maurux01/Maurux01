@@ -1,66 +1,66 @@
-
 <div align="center">
-  <table width="100%">
+  <table width="100%" border="0" cellspacing="0" cellpadding="20">
     <tr>
-      <td width="50%" valign="top">
-        <p>
-          Industrial engineer and junior developer passionate about quality, process improvement, and open source technology. My journey began in manufacturing, continued in customer service to strengthen my soft skills and English, and now moves forward in the world of software, because I always wanted to be a software engineer but couldn't. However, it's never too late to do what you really always wanted to do, just dive in bud!
-        </p>
-        <p>
-          I combine analytical thinking and creativity to solve problems, while exploring web development, cybersecurity, databases, and technologies to build efficient and scalable applications. Outside of coding, I enjoy making music, digital art,3d modeling, and learning nonstop.
-        </p>
+      <td width="65%" valign="middle">
+        <h1 align="center"> Hi there, I'm Mauro! 👋</h1>
+        <p><strong>Industrial Engineer</strong> turned <strong>Full Stack Developer</strong>. 🚀</p>
+        <p>My journey started in manufacturing, evolved through 4+ years of bilingual remote customer service (honing my communication, adaptability, and problem-solving skills), and has now landed exactly where I always wanted to be: <strong>building software</strong>.</p>
+        <p>I combine the analytical, process-driven mindset of an Industrial Engineer with the creativity of a developer. I'm passionate about open-source technology, web development, databases, and building efficient, scalable applications.</p>
+        <p>🌐 You can find more info about me ➡️ <a href="https://maurux01.github.io/personalwebpage/" target="_blank" style="color: #7aa2f7; text-decoration: none; font-weight: bold;">here</a>.</p>
       </td>
-      <td width="10%" align="center">
-    <img src="https://i.pinimg.com/736x/12/b9/95/12b995e176dec2f1b419719da0da44af.jpg"
-         alt="goku" 
-         style="max-width: 300px; border-radius: 8px;">
-    </td>
+      <td width="15%" align="center" valign="middle">
+        <img src="https://i.pinimg.com/736x/12/b9/95/12b995e176dec2f1b419719da0da44af.jpg" 
+             alt="Mauro Profile" 
+             style="max-width: 250px; border-radius: 50%; border: 4px solid #7aa2f7; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
+      </td>
+    </tr>
   </table>
 </div>
 
+<br>
+
+<h1 align="center">  Tech Stack & Tools </h1>
 <p align="center">
- You can find more info about me ➡️ [here](https://maurux01.github.io/personalwebpage/)
+  <img src="https://skillicons.dev/icons?i=dotnet,angular,flask,spring,html,css,js,ts,go,lua,bash,python,perl,r,c,cpp,cs,java,mysql,mongodb,sqlite,postgresql,powershell,markdown,linux,neovim,git,github,gitlab,npm,pnpm,azure,aws" height="250"/>
 </p>
 
+<br>
 
-### Stack
+<h1 align="center">  GitHub Contributions </h1>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,angular,flask,spring,html,css,js,ts,go,lua,bash,python,perl,r,c,cpp,cs,java,mysql,mongodb,sqlite,postgresql,powershell,markdown,linux,neovim,git,github,gitlab,npm,pnpm,azure,aws," height="1000"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maurux01&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </p>
 
-### Contributions
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maurux01&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</p>
+<br>
 
-### Follow me
+<h1 align="center"> Let's Connect!</h1>
 <p align="center">
-  <a href="https://stackoverflow.com/users/28065944/mauro-infante" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/stackoverflow.png" width="40" title="Stack Overflow" alt="Stack Overflow"/>
-  </a>
-  &nbsp;
   <a href="https://linkedin.com/in/infmauro" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="40" title="LinkedIn" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="45" alt="LinkedIn"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
+  <a href="https://github.com/maurux01" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/github.png" width="45" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/28065944/mauro-infante" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/stackoverflow.png" width="45" alt="Stack Overflow"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://twitter.com/maufel2" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/twitterx.png" width="40" title="Twitter" alt="Twitter"/>
+    <img src="https://img.icons8.com/fluency/48/twitterx.png" width="45" alt="Twitter"/>
   </a>
-  &nbsp;
-  <a href="https://www.reddit.com/user/maxinff/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/reddit.png" width="40" title="Reddit" alt="Reddit"/>
-  </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://gitlab.com/Maurux01" target="_blank">
-    <img src="https://img.icons8.com/color/48/gitlab.png" width="40" title="GitLab" alt="GitLab"/>
+    <img src="https://img.icons8.com/color/48/gitlab.png" width="45" alt="GitLab"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.youtube.com/@maurux01" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/youtube-play.png" width="40" title="YouTube" alt="YouTube"/>
+    <img src="https://img.icons8.com/fluency/48/youtube-play.png" width="45" alt="YouTube"/>
   </a>
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/github/followers/maurux01?label=Followers&style=for-the-badge&color=7aa2f7"/>
   <img src="https://img.shields.io/github/stars/maurux01?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=bb9af7&label=Stars"/>
 </p>
-
