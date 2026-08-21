@@ -11,14 +11,14 @@
         </p>
       </td>
       <td width="50%" align="center">
-<img src="https://media.tenor.com/On7kvXhzml4AAAAj/dragon-ball-gt-super-17.gif" alt="Dragon Ball GT Super 17" style="max-width: 100%; height: auto; border-radius: 8px;">
-      </td>
+https://media.tenor.com/On7kvXhzml4AAAAj/dragon-ball-gt-super-17.gif  
     </tr>
   </table>
 </div>
 
 <p align="center">
- You can find more info about me [here](https://maurux01.github.io/personalwebpage)
+
+ You can find more info about me ➡️ [here](https://maurux01.github.io/personalwebpage/)
 </p>
 
 
