@@ -1,4 +1,4 @@
-<div align="center">
+
 <div align="center">
   <table width="100%">
     <tr>
@@ -10,22 +10,21 @@
           I combine analytical thinking and creativity to solve problems, while exploring web development, cybersecurity, databases, and technologies to build efficient and scalable applications. Outside of coding, I enjoy making music, digital art,3d modeling, and learning nonstop.
         </p>
       </td>
-      <td width="50%" align="center">
-https://media.tenor.com/On7kvXhzml4AAAAj/dragon-ball-gt-super-17.gif  
-    </tr>
+      <td width="10%" align="center">
+    <img src="https://i.pinimg.com/736x/12/b9/95/12b995e176dec2f1b419719da0da44af.jpg"
+         alt="goku" 
+         style="max-width: 300px; border-radius: 8px;">
+    </td>
   </table>
 </div>
 
 <p align="center">
-
  You can find more info about me ➡️ [here](https://maurux01.github.io/personalwebpage/)
 </p>
 
 
 ### Stack
-
 <p align="center">
-  
   <img src="https://skillicons.dev/icons?i=dotnet,angular,flask,spring,html,css,js,ts,go,lua,bash,python,perl,r,c,cpp,cs,java,mysql,mongodb,sqlite,postgresql,powershell,markdown,linux,neovim,git,github,gitlab,npm,pnpm,azure,aws," height="1000"/>
 </p>
 
@@ -35,7 +34,6 @@ https://media.tenor.com/On7kvXhzml4AAAAj/dragon-ball-gt-super-17.gif
 </p>
 
 ### Follow me
-
 <p align="center">
   <a href="https://stackoverflow.com/users/28065944/mauro-infante" target="_blank">
     <img src="https://img.icons8.com/fluency/48/stackoverflow.png" width="40" title="Stack Overflow" alt="Stack Overflow"/>
