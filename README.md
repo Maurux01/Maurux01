@@ -2,7 +2,7 @@
   <table width="100%" border="0" cellspacing="0" cellpadding="20">
     <tr>
       <td width="65%" valign="middle">
-        <h1 align="center"> Hi there, I'm Maurux01! </h1>
+        <h1 align="center"> <strong> Hi there, I'm Maurux01! </strong> </h1>
         <p><strong>Industrial Engineer</strong> turned <strong>Full Stack Developer</strong>. </p>
         <p>My journey started in BPOs enviroment, evolved through 4+ years of bilingual remote customer service (honing my communication, adaptability, and problem-solving skills), and has now landed exactly where I always wanted to be: <strong>building software</strong>.</p>
         <p>I combine the analytical, process-driven mindset of an Industrial Engineer with the creativity of a developer. I'm passionate about open-source technology, web development, databases, and building efficient, scalable applications.</p>
