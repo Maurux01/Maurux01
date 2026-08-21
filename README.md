@@ -30,7 +30,7 @@
 
 <h1 align="center">  GitHub Contributions </h1>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maurux01&theme=tokyo-night&hide_border=true&area=true" height="30px" width="30%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maurux01&theme=tokyo-night&hide_border=true&area=true" width="200%"/>
 </p>
 
 <br>
