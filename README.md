@@ -21,16 +21,10 @@
 
 <h1 align="center">  Tech Stack & Tools </h1>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9358b8fc-567a-47bb-ac75-3a449b36fdf8" 
-       alt="Mauro Infante - Industrial Engineer | Full Stack Developer - Tech Stack Banner" 
-       style="width: 100%; max-width: 1680px; height: auto; border-radius: 12px;" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,go,typescript,angular,nodejs,spring,django,postgresql,mongodb,linux,bash"/>
 </p>
-
-<br>
-
-<h1 align="center">  GitHub Contributions </h1>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maurux01&theme=tokyo-night&hide_border=true&area=true" width="200%"/>
+<img src="https://skillicons.dev/icons?i=,neovim,git,github">
 </p>
 
 <br>
