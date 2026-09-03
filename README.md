@@ -31,7 +31,7 @@
 
 <h1 align="center"> Let's Connect!</h1>
 <p align="center">
-  <a href="https://linkedin.com/in/infmauro" target="_blank">
+  <a href="https://linkedin.com/in/mauro-infante" target="_blank">
     <img src="https://img.icons8.com/fluency/48/linkedin.png" width="45" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
